@@ -1,0 +1,1890 @@
+1652479694514	geckodriver	INFO	Listening on 127.0.0.1:63306
+1652479697585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilecEWSh8"
+1652479697987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilecEWSh8\\search.json.mozlz4", (void 0)))
+1652479699553	Marionette	INFO	Listening on port 63334
+Read port: 63334
+1652479699649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.46120d4dc23d118edc33.min.js, line 1: TypeError: c.headers is undefined
+1652479887522	Marionette	INFO	Stopped listening on port 63334
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilef3bE5q"
+1652479887310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilef3bE5q\\search.json.mozlz4", (void 0)))
+1652479888928	Marionette	INFO	Listening on port 63623
+Read port: 63623
+1652479889053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1652480502374	Marionette	INFO	Stopped listening on port 63623
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652480507923	geckodriver	INFO	Listening on 127.0.0.1:64408
+1652480510958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile8oRNXU"
+1652480511379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile8oRNXU\\search.json.mozlz4", (void 0)))
+1652480512998	Marionette	INFO	Listening on port 64440
+Read port: 64440
+1652480513089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652515320568	Marionette	INFO	Stopped listening on port 64440
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652515323368	geckodriver	INFO	Listening on 127.0.0.1:65465
+1652515326410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileJGmH6I"
+1652515326965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileJGmH6I\\search.json.mozlz4", (void 0)))
+1652515329637	Marionette	INFO	Listening on port 49152
+Read port: 49152
+1652515329698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652517037976	Marionette	INFO	Stopped listening on port 49152
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUrJsFo\\search.json.mozlz4", (void 0)))
+1652517035037	Marionette	INFO	Listening on port 51216
+Read port: 51216
+1652517035167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652517349259	Marionette	INFO	Stopped listening on port 51216
+[Parent 16228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652517363123	geckodriver	INFO	Listening on 127.0.0.1:51626
+1652517366198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSWQ6Ow"
+1652517366808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSWQ6Ow\\search.json.mozlz4", (void 0)))
+1652517369067	Marionette	INFO	Listening on port 51656
+Read port: 51656
+1652517369213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652517736070	Marionette	INFO	Stopped listening on port 51656
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652517886518	geckodriver	INFO	Listening on 127.0.0.1:52353
+1652517889592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileWmk249"
+1652517890800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileWmk249\\search.json.mozlz4", (void 0)))
+1652517894426	Marionette	INFO	Listening on port 52400
+Read port: 52400
+1652517894555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/Reconsole.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652521380280	Marionette	INFO	Stopped listening on port 52400
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652521379145	Marionette	INFO	Stopped listening on port 52827
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652521484246	geckodriver	INFO	Listening on 127.0.0.1:56425
+1652521487327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileAVZi66"
+1652521488331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileAVZi66\\search.json.mozlz4", (void 0)))
+1652521491463	Marionette	INFO	Listening on port 56460
+Read port: 56460
+1652521491505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652521713727	Marionette	INFO	Stopped listening on port 56460
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652521798910	geckodriver	INFO	Listening on 127.0.0.1:61062
+1652521801987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile5zOnVC"
+1652521802841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile5zOnVC\\search.json.mozlz4", (void 0)))
+1652521804910	Marionette	INFO	Listening on port 61090
+Read port: 61090
+1652521805001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/Reconsole.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652523466192	Marionette	INFO	Stopped listening on port 61090
+[Parent 836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+e (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652523467466	Marionette	INFO	Stopped listening on port 65355
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652523477338	geckodriver	INFO	Listening on 127.0.0.1:64442
+1652523480443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilep7ZL0I"
+1652523481187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilep7ZL0I\\search.json.mozlz4", (void 0)))
+1652523483259	Marionette	INFO	Listening on port 64476
+Read port: 64476
+1652523483356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ices.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652985850302	geckodriver	INFO	Listening on 127.0.0.1:50494
+1652985853379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileqfDSbP"
+1652985853986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileqfDSbP\\search.json.mozlz4", (void 0)))
+1652985855809	Marionette	INFO	Listening on port 50516
+Read port: 50516
+1652985855875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1652986512801	Marionette	INFO	Stopped listening on port 50516
+1652986515104	geckodriver	INFO	Listening on 127.0.0.1:50821
+1652986518182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilelugcOa"
+1652986518600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilelugcOa\\search.json.mozlz4", (void 0)))
+1652986520156	Marionette	INFO	Listening on port 50842
+Read port: 50842
+1652986520211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652987459058	Marionette	INFO	Stopped listening on port 50842
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652987461683	geckodriver	INFO	Listening on 127.0.0.1:51060
+1652987464746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile4aYVHW"
+1652987465127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile4aYVHW\\search.json.mozlz4", (void 0)))
+1652987466726	Marionette	INFO	Listening on port 51079
+Read port: 51079
+1652987466758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652988166374	Marionette	INFO	Stopped listening on port 51079
+2988162487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileiJQ2RF"
+1652988162876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileiJQ2RF\\search.json.mozlz4", (void 0)))
+1652988164446	Marionette	INFO	Listening on port 64251
+Read port: 64251
+1652988164528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652988202794	geckodriver	INFO	Listening on 127.0.0.1:64316
+1652988205855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileL3yTpW"
+1652988206270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileL3yTpW\\search.json.mozlz4", (void 0)))
+1652988207840	Marionette	INFO	Listening on port 64345
+Read port: 64345
+1652988207882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 2989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 1285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652988313589	geckodriver	INFO	Listening on 127.0.0.1:64486
+1652988316653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileOzW9CF"
+1652988317081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileOzW9CF\\search.json.mozlz4", (void 0)))
+1652988318587	Marionette	INFO	Listening on port 64512
+Read port: 64512
+1652988318686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652989015666	Marionette	INFO	Stopped listening on port 64512
+[Parent 8384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileigfbp6"
+1652988696981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileigfbp6\\search.json.mozlz4", (void 0)))
+1652988698566	Marionette	INFO	Listening on port 64648
+Read port: 64648
+1652988698628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652989017293	Marionette	INFO	Stopped listening on port 64648
+1652989538703	geckodriver	INFO	Listening on 127.0.0.1:64965
+1652989541766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQOmpn5"
+1652989542198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQOmpn5\\search.json.mozlz4", (void 0)))
+1652989543834	Marionette	INFO	Listening on port 64985
+Read port: 64985
+1652989543919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652989664905	Marionette	INFO	Stopped listening on port 64985
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenMYIfK"
+1652989603243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenMYIfK\\search.json.mozlz4", (void 0)))
+1652989604755	Marionette	INFO	Listening on port 65091
+Read port: 65091
+1652989604883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652989666561	Marionette	INFO	Stopped listening on port 65091
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile6H8673"
+1652989656596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile6H8673\\search.json.mozlz4", (void 0)))
+1652989658168	Marionette	INFO	Listening on port 65176
+Read port: 65176
+1652989658279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652989674585	Marionette	INFO	Stopped listening on port 65176
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652989689470	geckodriver	INFO	Listening on 127.0.0.1:65236
+1652989692549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiletrDVYe"
+1652989693006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiletrDVYe\\search.json.mozlz4", (void 0)))
+1652989694558	Marionette	INFO	Listening on port 65259
+Read port: 65259
+1652989694590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652990474785	Marionette	INFO	Stopped listening on port 65259
+[Parent 9740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652990477564	geckodriver	INFO	Listening on 127.0.0.1:65518
+1652990480648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTO3y3x"
+1652990481061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTO3y3x\\search.json.mozlz4", (void 0)))
+1652990482657	Marionette	INFO	Listening on port 49158
+Read port: 49158
+1652990482777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652990744455	Marionette	INFO	Stopped listening on port 49158
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilekaGdCL"
+1652990585443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilekaGdCL\\search.json.mozlz4", (void 0)))
+1652990587008	Marionette	INFO	Listening on port 49274
+Read port: 49274
+1652990587108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652990752065	Marionette	INFO	Stopped listening on port 49274
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652990777232	geckodriver	INFO	Listening on 127.0.0.1:49365
+1652990780278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilexYvXhw"
+1652990780672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilexYvXhw\\search.json.mozlz4", (void 0)))
+1652990782403	Marionette	INFO	Listening on port 49387
+Read port: 49387
+1652990782513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652992330746	geckodriver	INFO	Listening on 127.0.0.1:49662
+1652992333813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilepdFI80"
+1652992334212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilepdFI80\\search.json.mozlz4", (void 0)))
+1652992335818	Marionette	INFO	Listening on port 49701
+Read port: 49701
+1652992335936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652992345476	Marionette	INFO	Stopped listening on port 49701
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652992427215	geckodriver	INFO	Listening on 127.0.0.1:49847
+1652992430281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTvdCc7"
+1652992430595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTvdCc7\\search.json.mozlz4", (void 0)))
+1652992432095	Marionette	INFO	Listening on port 49873
+Read port: 49873
+1652992432189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652992471547	Marionette	INFO	Stopped listening on port 49873
+1652992474345	geckodriver	INFO	Listening on 127.0.0.1:49941
+1652992477421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileDOjjbl"
+1652992477840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileDOjjbl\\search.json.mozlz4", (void 0)))
+1652992479347	Marionette	INFO	Listening on port 49964
+Read port: 49964
+1652992479458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652994423025	Marionette	INFO	Stopped listening on port 49964
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileX7WEY2\\search.json.mozlz4", (void 0)))
+1652992509797	Marionette	INFO	Listening on port 50109
+Read port: 50109
+1652992509914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652996020875	Marionette	INFO	Stopped listening on port 50109
+[Parent 7048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652996045866	geckodriver	INFO	Listening on 127.0.0.1:50640
+1652996048954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileH4Hl3w"
+1652996049370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileH4Hl3w\\search.json.mozlz4", (void 0)))
+1652996050927	Marionette	INFO	Listening on port 50660
+Read port: 50660
+1652996051006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652997021316	Marionette	INFO	Stopped listening on port 50660
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileMlZ5QA\\search.json.mozlz4", (void 0)))
+1652996167424	Marionette	INFO	Listening on port 50764
+Read port: 50764
+1652996167536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652997023504	Marionette	INFO	Stopped listening on port 50764
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652997026948	geckodriver	INFO	Listening on 127.0.0.1:51005
+1652997030030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUu2Rl2"
+1652997030418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUu2Rl2\\search.json.mozlz4", (void 0)))
+1652997031925	Marionette	INFO	Listening on port 51032
+Read port: 51032
+1652997032036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652997570337	Marionette	INFO	Stopped listening on port 51032
+[Parent 8388, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile7X46F4\\search.json.mozlz4", (void 0)))
+1652997162999	Marionette	INFO	Listening on port 51121
+Read port: 51121
+1652997163129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652997570324	Marionette	INFO	Stopped listening on port 51121
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilemXAsDI\\search.json.mozlz4", (void 0)))
+1652997396151	Marionette	INFO	Listening on port 51231
+Read port: 51231
+1652997396276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652997570323	Marionette	INFO	Stopped listening on port 51231
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile3SHrYV"
+1652997494838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile3SHrYV\\search.json.mozlz4", (void 0)))
+1652997496344	Marionette	INFO	Listening on port 51337
+Read port: 51337
+1652997496413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652997570321	Marionette	INFO	Stopped listening on port 51337
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652997572817	geckodriver	INFO	Listening on 127.0.0.1:51422
+1652997575899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilep748GA"
+1652997576311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilep748GA\\search.json.mozlz4", (void 0)))
+1652997577843	Marionette	INFO	Listening on port 51447
+Read port: 51447
+1652997577909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998187086	Marionette	INFO	Stopped listening on port 51447
+2997850744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile1fPMkT"
+1652997851060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile1fPMkT\\search.json.mozlz4", (void 0)))
+1652997852550	Marionette	INFO	Listening on port 51550
+Read port: 51550
+1652997852654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998188933	Marionette	INFO	Stopped listening on port 51550
+2998026047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile3K06Fe"
+1652998026363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile3K06Fe\\search.json.mozlz4", (void 0)))
+1652998027853	Marionette	INFO	Listening on port 51665
+Read port: 51665
+1652998027955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998193436	Marionette	INFO	Stopped listening on port 51665
+2998181470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2Tse6l"
+1652998181796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2Tse6l\\search.json.mozlz4", (void 0)))
+1652998183354	Marionette	INFO	Listening on port 51790
+Read port: 51790
+1652998183418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998477821	Marionette	INFO	Stopped listening on port 51790
+2998371674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileP7QYGY"
+1652998372044	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileP7QYGY\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652998447429	geckodriver	INFO	Listening on 127.0.0.1:51932
+1652998450488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile7R3fxt"
+1652998450866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile7R3fxt\\search.json.mozlz4", (void 0)))
+1652998452302	Marionette	INFO	Listening on port 51954
+Read port: 51954
+1652998452394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998724973	Marionette	INFO	Stopped listening on port 51954
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyNswva"
+1652998546413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyNswva\\search.json.mozlz4", (void 0)))
+1652998547901	Marionette	INFO	Listening on port 52055
+Read port: 52055
+1652998547991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998726699	Marionette	INFO	Stopped listening on port 52055
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilekR0mcc"
+1652998716991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilekR0mcc\\search.json.mozlz4", (void 0)))
+1652998718440	Marionette	INFO	Listening on port 52160
+Read port: 52160
+1652998718568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652998851420	Marionette	INFO	Stopped listening on port 52160
+1652998853808	geckodriver	INFO	Listening on 127.0.0.1:52270
+1652998856885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilebGjaeU"
+1652998857268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilebGjaeU\\search.json.mozlz4", (void 0)))
+1652998858776	Marionette	INFO	Listening on port 52294
+Read port: 52294
+1652998858895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652999443309	Marionette	INFO	Stopped listening on port 52294
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+ta\\Local\\Temp\\rust_mozprofile0Ry5sK"
+1652999080881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile0Ry5sK\\search.json.mozlz4", (void 0)))
+1652999082342	Marionette	INFO	Listening on port 52407
+Read port: 52407
+1652999082455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652999445224	Marionette	INFO	Stopped listening on port 52407
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledbsbei"
+1652999254376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledbsbei\\search.json.mozlz4", (void 0)))
+1652999256062	Marionette	INFO	Listening on port 52501
+Read port: 52501
+1652999256163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653000539417	Marionette	INFO	Stopped listening on port 52501
+3000035594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyebOVK"
+1653000035984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyebOVK\\search.json.mozlz4", (void 0)))
+1653000037498	Marionette	INFO	Listening on port 61448
+Read port: 61448
+1653000037607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653000539419	Marionette	INFO	Stopped listening on port 61448
+3000310185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile4jbGyb"
+1653000310691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile4jbGyb\\search.json.mozlz4", (void 0)))
+1653000312197	Marionette	INFO	Listening on port 61579
+Read port: 61579
+1653000312323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653000539414	Marionette	INFO	Stopped listening on port 61579
+1653000542907	geckodriver	INFO	Listening on 127.0.0.1:61680
+1653000545993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilepq42DR"
+1653000546383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilepq42DR\\search.json.mozlz4", (void 0)))
+1653000548011	Marionette	INFO	Listening on port 61704
+Read port: 61704
+1653000548116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653000679685	geckodriver	INFO	Listening on 127.0.0.1:61773
+1653000682756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUWmHls"
+1653000683077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUWmHls\\search.json.mozlz4", (void 0)))
+1653000684706	Marionette	INFO	Listening on port 61801
+Read port: 61801
+1653000684779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653001500577	geckodriver	INFO	Listening on 127.0.0.1:62149
+1653001503647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQwVwn6"
+1653001504040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQwVwn6\\search.json.mozlz4", (void 0)))
+1653001505716	Marionette	INFO	Listening on port 62175
+Read port: 62175
+1653001505778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653001815058	Marionette	INFO	Stopped listening on port 62175
+1653001817785	geckodriver	INFO	Listening on 127.0.0.1:62272
+1653001820868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQXR6Cl"
+1653001821259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQXR6Cl\\search.json.mozlz4", (void 0)))
+1653001822952	Marionette	INFO	Listening on port 62295
+Read port: 62295
+1653001822994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653001928820	geckodriver	INFO	Listening on 127.0.0.1:62376
+1653001931896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile8WLnqh"
+1653001932217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile8WLnqh\\search.json.mozlz4", (void 0)))
+1653001933676	Marionette	INFO	Listening on port 62402
+Read port: 62402
+1653001933794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653001981983	geckodriver	INFO	Listening on 127.0.0.1:62458
+1653001985039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileP5au8J"
+1653001985383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileP5au8J\\search.json.mozlz4", (void 0)))
+1653001986870	Marionette	INFO	Listening on port 62485
+Read port: 62485
+1653001986950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653002079426	geckodriver	INFO	Listening on 127.0.0.1:62571
+1653002082494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileGQFlrm"
+1653002082824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileGQFlrm\\search.json.mozlz4", (void 0)))
+1653002084319	Marionette	INFO	Listening on port 62595
+Read port: 62595
+1653002084400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653002230595	geckodriver	INFO	Listening on 127.0.0.1:62689
+1653002233680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2M5hNp"
+1653002234021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2M5hNp\\search.json.mozlz4", (void 0)))
+1653002235492	Marionette	INFO	Listening on port 62711
+Read port: 62711
+1653002235602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1653002330543	geckodriver	INFO	Listening on 127.0.0.1:62781
+1653002333622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileGPx4qD"
+1653002333986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileGPx4qD\\search.json.mozlz4", (void 0)))
+1653002335557	Marionette	INFO	Listening on port 62809
+Read port: 62809
+1653002335641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653085000700	geckodriver	INFO	Listening on 127.0.0.1:58198
+1653085003762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyxWcKU"
+1653085004264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileyxWcKU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58199/devtools/browser/a78fbdd3-ccdf-4fe0-9872-4bf1436fb7d1
+1653085005809	Marionette	INFO	Listening on port 58220
+Read port: 58220
+1653085005919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653085739539	Marionette	INFO	Stopped listening on port 58220
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653085743277	geckodriver	INFO	Listening on 127.0.0.1:58395
+1653085746323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilegi3s1X"
+1653085746734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilegi3s1X\\search.json.mozlz4", (void 0)))
+1653085748325	Marionette	INFO	Listening on port 58421
+Read port: 58421
+1653085748440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653085979679	Marionette	INFO	Stopped listening on port 58421
+1653085982949	geckodriver	INFO	Listening on 127.0.0.1:58512
+1653085986032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2t6z0z"
+1653085986406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile2t6z0z\\search.json.mozlz4", (void 0)))
+1653085987922	Marionette	INFO	Listening on port 58536
+Read port: 58536
+1653085988012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653086176298	Marionette	INFO	Stopped listening on port 58536
+3086035220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledb9Maw"
+1653086035531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledb9Maw\\search.json.mozlz4", (void 0)))
+1653086037000	Marionette	INFO	Listening on port 58620
+Read port: 58620
+1653086037064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653086176305	Marionette	INFO	Stopped listening on port 58620
+1653086180138	geckodriver	INFO	Listening on 127.0.0.1:58689
+1653086183198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilemc27Nv"
+1653086183575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilemc27Nv\\search.json.mozlz4", (void 0)))
+1653086185142	Marionette	INFO	Listening on port 58715
+Read port: 58715
+1653086185255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653086505708	Marionette	INFO	Stopped listening on port 58715
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileLGh7jU"
+1653086391533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileLGh7jU\\search.json.mozlz4", (void 0)))
+1653086392996	Marionette	INFO	Listening on port 58808
+Read port: 58808
+1653086393050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653086505702	Marionette	INFO	Stopped listening on port 58808
+1653086512864	geckodriver	INFO	Listening on 127.0.0.1:58866
+1653086515951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilergsK6G"
+1653086516329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilergsK6G\\search.json.mozlz4", (void 0)))
+1653086517757	Marionette	INFO	Listening on port 58890
+Read port: 58890
+1653086517810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653086753412	Marionette	INFO	Stopped listening on port 58890
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653086759767	geckodriver	INFO	Listening on 127.0.0.1:58971
+1653086762907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileeAn3eH"
+1653086763367	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileeAn3eH\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1653086849645	geckodriver	INFO	Listening on 127.0.0.1:59009
+1653086852714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilexLY3pR"
+1653086853087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilexLY3pR\\search.json.mozlz4", (void 0)))
+1653086854561	Marionette	INFO	Listening on port 59034
+Read port: 59034
+1653086854684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087330836	Marionette	INFO	Stopped listening on port 59034
+1653087333340	geckodriver	INFO	Listening on 127.0.0.1:59180
+1653087336392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTsHssx"
+1653087336762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileTsHssx\\search.json.mozlz4", (void 0)))
+1653087338314	Marionette	INFO	Listening on port 59205
+Read port: 59205
+1653087338386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087959312	Marionette	INFO	Stopped listening on port 59205
+3087356969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSvl2bz"
+1653087357285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSvl2bz\\search.json.mozlz4", (void 0)))
+1653087358789	Marionette	INFO	Listening on port 59279
+Read port: 59279
+1653087358888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087364384	Marionette	INFO	Stopped listening on port 59279
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653087498974	geckodriver	INFO	Listening on 127.0.0.1:59322
+1653087502013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileLA2jI9"
+1653087502352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileLA2jI9\\search.json.mozlz4", (void 0)))
+1653087503808	Marionette	INFO	Listening on port 59347
+Read port: 59347
+1653087503913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087960527	Marionette	INFO	Stopped listening on port 59347
+[Parent 15140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQFxiVj"
+1653087721912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileQFxiVj\\search.json.mozlz4", (void 0)))
+1653087723371	Marionette	INFO	Listening on port 59446
+Read port: 59446
+1653087723399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087961799	Marionette	INFO	Stopped listening on port 59446
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileFVQaLE"
+1653087909758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileFVQaLE\\search.json.mozlz4", (void 0)))
+1653087911303	Marionette	INFO	Listening on port 59605
+Read port: 59605
+1653087911411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653087963136	Marionette	INFO	Stopped listening on port 59605
+1653088018940	geckodriver	INFO	Listening on 127.0.0.1:59677
+1653088022000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilegkJZYN"
+1653088022378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilegkJZYN\\search.json.mozlz4", (void 0)))
+1653088024001	Marionette	INFO	Listening on port 59700
+Read port: 59700
+1653088024078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653090376830	Marionette	INFO	Stopped listening on port 59700
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ilee3UT9E"
+1653088502690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilee3UT9E\\search.json.mozlz4", (void 0)))
+1653088504415	Marionette	INFO	Listening on port 59857
+Read port: 59857
+1653088504448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653090376841	Marionette	INFO	Stopped listening on port 59857
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledSWdyU"
+1653089114935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledSWdyU\\search.json.mozlz4", (void 0)))
+1653089116483	Marionette	INFO	Listening on port 60016
+Read port: 60016
+1653089116597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653090376837	Marionette	INFO	Stopped listening on port 60016
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileOE5jZS"
+1653089779182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileOE5jZS\\search.json.mozlz4", (void 0)))
+1653089780896	Marionette	INFO	Listening on port 60172
+Read port: 60172
+1653089781021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653090376788	Marionette	INFO	Stopped listening on port 60172
+1653090380950	geckodriver	INFO	Listening on 127.0.0.1:60289
+1653090384410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilehMNzOV"
+1653090384851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilehMNzOV\\search.json.mozlz4", (void 0)))
+1653090386689	Marionette	INFO	Listening on port 60313
+Read port: 60313
+1653090386812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653091073164	Marionette	INFO	Stopped listening on port 60313
+[Parent 15704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653091077773	geckodriver	INFO	Listening on 127.0.0.1:60468
+1653091080849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilehDu5JV"
+1653091081234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilehDu5JV\\search.json.mozlz4", (void 0)))
+1653091082858	Marionette	INFO	Listening on port 60492
+Read port: 60492
+1653091082983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653091757803	Marionette	INFO	Stopped listening on port 60492
+3091692629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileuRWHR7"
+1653091692945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileuRWHR7\\search.json.mozlz4", (void 0)))
+1653091694453	Marionette	INFO	Listening on port 60649
+Read port: 60649
+1653091694561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653091756561	Marionette	INFO	Stopped listening on port 60649
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileNiyKFV"
+1653091753717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileNiyKFV\\search.json.mozlz4", (void 0)))
+1653091755361	Marionette	INFO	Listening on port 60735
+Read port: 60735
+1653091755458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.95160bff3385b6be298a.min.js, line 1: TypeError: c.headers is undefined
+1653119474829	Marionette	INFO	Stopped listening on port 60735
+1653119478890	geckodriver	INFO	Listening on 127.0.0.1:53360
+1653119481942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenuuKGX"
+1653119482430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenuuKGX\\search.json.mozlz4", (void 0)))
+1653119484232	Marionette	INFO	Listening on port 53386
+Read port: 53386
+1653119484311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.95160bff3385b6be298a.min.js, line 1: TypeError: c.headers is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653120994188	Marionette	INFO	Stopped listening on port 53386
+3120599485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilerpRgac"
+1653120599819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilerpRgac\\search.json.mozlz4", (void 0)))
+1653120601359	Marionette	INFO	Listening on port 53655
+Read port: 53655
+1653120601405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.95160bff3385b6be298a.min.js, line 1: TypeError: c.headers is undefined
+1653120994185	Marionette	INFO	Stopped listening on port 53655
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:153:26
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+1653120997625	geckodriver	INFO	Listening on 127.0.0.1:54991
+1653121000714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileBqoJJm"
+1653121001091	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileBqoJJm\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+1653121034208	geckodriver	INFO	Listening on 127.0.0.1:55072
+1653121037283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilebrtkJ6"
+1653121037675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilebrtkJ6\\search.json.mozlz4", (void 0)))
+1653121039396	Marionette	INFO	Listening on port 55094
+Read port: 55094
+1653121039474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.95160bff3385b6be298a.min.js, line 1: TypeError: c.headers is undefined
+1653121277258	Marionette	INFO	Stopped listening on port 55094
+1653159339724	geckodriver	INFO	Listening on 127.0.0.1:52572
+1653159342782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileZkP7oA"
+1653159343235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileZkP7oA\\search.json.mozlz4", (void 0)))
+1653159344969	Marionette	INFO	Listening on port 52596
+Read port: 52596
+1653159345041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653168806381	Marionette	INFO	Stopped listening on port 52596
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileHLBS1w"
+1653164846862	geckodriver	INFO	Listening on 127.0.0.1:53189
+1653164849945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileY9nNOk"
+1653164850268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileY9nNOk\\search.json.mozlz4", (void 0)))
+1653164851710	Marionette	INFO	Listening on port 53214
+Read port: 53214
+1653164851741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/vue-spa-js.95160bff3385b6be298a.min.js, line 1: TypeError: c.headers is undefined
+1653168530964	Marionette	INFO	Stopped listening on port 53214
+[Parent 3796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653168582306	geckodriver	INFO	Listening on 127.0.0.1:53548
+1653168585345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileIpWOKM"
+1653168585697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileIpWOKM\\search.json.mozlz4", (void 0)))
+1653168587208	Marionette	INFO	Listening on port 53571
+Read port: 53571
+1653168587284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653168616090	Marionette	INFO	Stopped listening on port 53571
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653168640734	geckodriver	INFO	Listening on 127.0.0.1:53628
+1653168643809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileNXCJCQ"
+1653168644136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileNXCJCQ\\search.json.mozlz4", (void 0)))
+1653168645592	Marionette	INFO	Listening on port 53652
+Read port: 53652
+1653168645727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653168806360	Marionette	INFO	Stopped listening on port 53652
+3168682789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileMVYyCn"
+1653168683126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileMVYyCn\\search.json.mozlz4", (void 0)))
+1653168684663	Marionette	INFO	Listening on port 53732
+Read port: 53732
+1653168684753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653168806363	Marionette	INFO	Stopped listening on port 53732
+1653168810106	geckodriver	INFO	Listening on 127.0.0.1:53797
+1653168813142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileFfzq8W"
+1653168813590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileFfzq8W\\search.json.mozlz4", (void 0)))
+1653168815460	Marionette	INFO	Listening on port 53822
+Read port: 53822
+1653168815588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653169139131	Marionette	INFO	Stopped listening on port 53822
+1655073970359	geckodriver	INFO	Listening on 127.0.0.1:56216
+1655073973434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenPCBvw"
+1655073974026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilenPCBvw\\search.json.mozlz4", (void 0)))
+1655073977045	Marionette	INFO	Listening on port 56246
+Read port: 56246
+1655073977141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655074149486	Marionette	INFO	Stopped listening on port 56246
+1655074196851	geckodriver	INFO	Listening on 127.0.0.1:56354
+1655074199890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilejusEch"
+1655074200269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilejusEch\\search.json.mozlz4", (void 0)))
+1655074203396	Marionette	INFO	Listening on port 56392
+Read port: 56392
+1655074203431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655074243924	Marionette	INFO	Stopped listening on port 56392
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655102650830	geckodriver	INFO	Listening on 127.0.0.1:61684
+1655102653930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledKOSqo"
+1655102654379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofiledKOSqo\\search.json.mozlz4", (void 0)))
+1655102657194	Marionette	INFO	Listening on port 61711
+Read port: 61711
+1655102657282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Collins\AppData\Local\Temp\rust_mozprofiledKOSqo\bookmarkbackups\bookmarks-2022-06-13_11_E8f7YQTRR59MLDLNw4J8Jg==.jsonlz4) because it does not exist
+1655187944537	Marionette	INFO	Stopped listening on port 61711
+1655807358474	geckodriver	INFO	Listening on 127.0.0.1:64792
+1655807361507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilew1w4pa"
+1655807361927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilew1w4pa\\search.json.mozlz4", (void 0)))
+1655807364935	Marionette	INFO	Listening on port 64821
+Read port: 64821
+1655807364981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStore::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1655807530111	Marionette	INFO	Stopped listening on port 64821
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PSocketProcessParent] Error: Send(msgname=PSocketProcess::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PSocketProcessParent] Error: Send(msgname=PSocketProcess::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PSocketProcessParent] Error: Send(msgname=PSocketProcess::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Shutting down due to socket process crash.
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Parent 16572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+[Parent 16572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655984860401	geckodriver	INFO	Listening on 127.0.0.1:56256
+1655984863459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileV2TEOR"
+1655984864131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileV2TEOR\\search.json.mozlz4", (void 0)))
+1655984868055	Marionette	INFO	Listening on port 56288
+Read port: 56288
+1655984868164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+1655984988610	Marionette	INFO	Listening on port 56421
+Read port: 56421
+1655984988691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1656241590340	geckodriver	INFO	Listening on 127.0.0.1:56278
+1656241593378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSQSoVL"
+1656241593985	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileSQSoVL\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1656241618004	geckodriver	INFO	Listening on 127.0.0.1:56323
+1656241621045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileW5whc3"
+1656241621422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileW5whc3\\search.json.mozlz4", (void 0)))
+1656241624320	Marionette	INFO	Listening on port 56348
+Read port: 56348
+1656241624384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656241813944	Marionette	INFO	Stopped listening on port 56348
+6241655332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUCTIsk"
+1656241655679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileUCTIsk\\search.json.mozlz4", (void 0)))
+1656241658498	Marionette	INFO	Listening on port 56434
+Read port: 56434
+1656241658557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656241815572	Marionette	INFO	Stopped listening on port 56434
+1656241830535	geckodriver	INFO	Listening on 127.0.0.1:56523
+1656241833595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileeTHaMN"
+1656241833960	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofileeTHaMN\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+1656242024254	geckodriver	INFO	Listening on 127.0.0.1:56566
+1656242027318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilez2uYYR"
+1656242027689	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofilez2uYYR\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1656242160534	geckodriver	INFO	Listening on 127.0.0.1:61972
+1656242163588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile6ds1Rb"
+1656242163981	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile6ds1Rb\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4832: TypeError: aWindow.gNavToolbox.palette is undefined
+1661200436414	geckodriver	INFO	Listening on 127.0.0.1:58189
+1661200439508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile22FSAk"
+1661200440148	Marionette	INFO	Marionette enabled
+1661200440154	Marionette	INFO	Listening on port 62073
+Read port: 62073
+Read port: 62073
+1661200442272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Collins\\AppData\\Local\\Temp\\rust_mozprofile22FSAk\\search.json.mozlz4", (void 0)))
+1661200456839	Marionette	INFO	Stopped listening on port 62073
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

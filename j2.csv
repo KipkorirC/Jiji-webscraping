@@ -1,0 +1,4851 @@
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,020,000], [Foreign Used, Automatic, 162000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 890,000], [Foreign Used, AMT, 63723km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,050,000], [Foreign Used, Automatic, 65073km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 940,000], [Foreign Used, CVT, 147000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 920,000], [Foreign Used, Automatic, 94069km], [ ]]"
+
+"[[Subaru Legacy 2.0 AWD 2007 Gray], [KSh 735,000], [Kenyan Used, Automatic, 134000km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Black], [KSh 630,000], [Kenyan Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 800,000], [Foreign Used, Automatic, 84951km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 800,000], [Foreign Used, Automatic, 71601km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 980,000], [Foreign Used, Automatic, 63000km], [ ]]"
+
+"[[Suzuki Swift 2013 Silver], [KSh 790,000], [Foreign Used, Automatic, 96541km], [ ]]"
+
+"[[Suzuki Swift 2015], [KSh 900,000], [Foreign Used, Automatic, 68934km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,080,000], [Foreign Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 955,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Teal], [KSh 980,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Beige], [KSh 850,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Pearl], [KSh 1,030,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 830,000], [Foreign Used, Automatic, 78450km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 1,050,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2016 Blue], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 950,000], [Foreign Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 1,050,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 1.4 2011 Black], [KSh 590,000], [Kenyan Used, Automatic, 181000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,050,000], [Foreign Used, Automatic, 980000km], [ ]]"
+
+"[[Toyota Corolla RunX 2004 White], [KSh 570,000], [Kenyan Used, Automatic, 143000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,080,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 895,000], [Foreign Used, Automatic, 58000km], [ ]]"
+
+"[[Suzuki Swift 2016 Gray], [KSh 1,080,000], [Foreign Used, Automatic, 63000km], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 650,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 740,000], [Kenyan Used, Automatic, 144000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 1,000,000], [Foreign Used, Automatic, 116176km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 950,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 950,000], [Foreign Used, Automatic, 37521km], [ ]]"
+
+"[[Suzuki Swift 2017 Gray], [KSh 1,200,000], [Foreign Used, Automatic, 65481km], [ ]]"
+
+"[[Suzuki Swift 2013 Red], [KSh 880,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 1,150,000], [Foreign Used, Automatic, 154851km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,100,000], [Foreign Used, Automatic, 41426km], [ ]]"
+
+"[[Suzuki Swift 2016 Red], [KSh 980,000], [Foreign Used, Automatic, 85000km], [ ]]"
+
+"[[Suzuki Swift 2013 Silver], [KSh 700,000], [Kenyan Used, Automatic, 80300km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 980,000], [Foreign Used, Automatic, 68000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 995,000], [Foreign Used, Automatic, 139000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 920,000], [Foreign Used, Automatic, 111000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 875,000], [Foreign Used, Automatic, 35000km], [ ]]"
+
+"[[Suzuki Swift 2011 1.4 Red], [KSh 545,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 990,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,000,000], [Foreign Used, Automatic, 68502km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 1,050,000], [Foreign Used, Automatic, 142804km], [ ]]"
+
+"[[Suzuki Swift 2016 Silver], [KSh 1,050,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Ivory], [KSh 870,000], [Foreign Used, Automatic, 78563km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 880,000], [Foreign Used, Automatic, 65856km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 830,000], [Foreign Used, Automatic, 68053km], [ ]]"
+
+"[[Suzuki Swift 2014 black], [KSh 879,999], [Automatic, 138357km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,000,000], [Foreign Used, Automatic, 151000km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 850,000], [Foreign Used, Automatic, 45610km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,100,000], [Foreign Used, Manual, 63125km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 920,000], [Foreign Used, Automatic, 82000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 990,000], [Foreign Used, Automatic, 130000km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 1,049,900], [Foreign Used, Automatic, 56823km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,030,000], [Foreign Used, Automatic, 92710km], [ ]]"
+
+"[[Toyota Raum 2004 Silver], [KSh 520,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Toyota Ractis 2013 Silver], [KSh 790,000], [Kenyan Used, Automatic, 100000km], [ ]]"
+
+"[[Nissan Note 2014 Silver], [KSh 675,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 1,050,000], [Foreign Used, Automatic, 113000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,000,000], [Foreign Used, Automatic, 70556km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 880,000], [Foreign Used, Automatic, 42000km], [ ]]"
+
+"[[Suzuki Swift 2015 Pearl], [KSh 930,000], [Foreign Used, Automatic, 68532km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 800,000], [Foreign Used, Automatic, 45120km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 850,000], [Foreign Used, Automatic, 40000km], [ ]]"
+
+"[[Suzuki Swift 2016 Black], [KSh 1,050,000], [Foreign Used, Automatic, 64515km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 1,030,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Pink], [KSh 800,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 930,000], [Foreign Used, Automatic, 88000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 880,000], [Foreign Used, Automatic, 68885km], [ ]]"
+
+"[[Toyota Ractis 2009 Silver], [KSh 580,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Renault Kwid 2018 Silver], [KSh 650,000], [Kenyan Used, Automatic, 30650km], [ ]]"
+
+"[[Suzuki Swift 2015 Burgandy], [KSh 990,000], [Foreign Used, Automatic, 56808km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 999,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Mitsubishi Mirage 2013 Silver], [KSh 595,000], [Foreign Used, Automatic, 153000km], [ ]]"
+
+"[[Subaru Forester 2.0 X Comfort 2008 Silver], [KSh 1,099,999], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Brown], [KSh 930,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Off white], [KSh 880,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,000,000], [Foreign Used, Automatic, 64758km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 880,000], [Foreign Used, Automatic, 95453km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 830,000], [Foreign Used, Automatic, 70558km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 860,000], [Kenyan Used, Automatic, 65000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 900,000], [Foreign Used, Automatic, 67000km], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 870,000], [Foreign Used, Automatic, 89000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 880,000], [Foreign Used, Automatic, 45120km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 960,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2016 Pearl], [KSh 1,150,000], [Foreign Used, Automatic, 56328km], [ ]]"
+
+"[[Mercedes-Benz C200 2005 Gold], [KSh 799,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Mercedes-Benz C200 2008 White], [KSh 1,330,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Toyota Mark X 2.5 AWD 2008 White], [KSh 580,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Toyota Corona Premio 2000 Gray], [KSh 390,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Mazda Demio 2011 Silver], [KSh 449,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Toyota Corolla RunX 2003 Silver], [KSh 490,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 830,000], [Foreign Used, Automatic, 85000km], [ ]]"
+
+"[[Suzuki Swift 2015 Teal], [KSh 850,000], [Foreign Used, Automatic, 49635km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,080,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 850,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 950,000], [Foreign Used, Automatic, 54200km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 930,000], [Foreign Used, Automatic, 94069km], [ ]]"
+
+"[[Suzuki Swift 2014 Teal], [KSh 850,000], [Foreign Used, Automatic, 60896km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 880,000], [Foreign Used, Automatic, 95000km], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 800,000], [Foreign Used, Automatic, 53190km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 950,000], [Foreign Used, Automatic, 42800km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Mitsubishi Lancer 1998 Silver], [KSh 285,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Nissan Sunny B15 Sedan 1.5 2004 Gold], [KSh 345,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Mazda Demio 2011 Gray], [KSh 445,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 950,000], [Foreign Used, Automatic, 132116km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 830,000], [Foreign Used, Automatic, 59000km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 950,000], [Foreign Used, Automatic, 174277km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 830,000], [Foreign Used, Automatic, 160000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 950,000], [Foreign Used, AMT, 52000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 850,000], [Foreign Used, Automatic, 42390km], [ ]]"
+
+"[[Suzuki Swift 2014 Off White], [KSh 800,000], [Foreign Used, Automatic, 62000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 830,000], [Kenyan Used, Automatic, 105000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 840,000], [Foreign Used, Automatic, 79808km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 850,000], [Foreign Used, Automatic, 53808km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 850,000], [Foreign Used, Automatic, 72135km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 880,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 900,000], [Foreign Used, Automatic, 47232km], [ ]]"
+
+"[[Suzuki Swift 2016 White], [KSh 950,000], [Foreign Used, Automatic, 100423km], [ ]]"
+
+"[[Suzuki Swift 2014 Ivory], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 880,000], [Foreign Used, Automatic, 54212km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 800,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 1,090,000], [Foreign Used, Automatic, 50710km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 940,000], [Foreign Used, Automatic, 70000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 72858km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 870,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 880,000], [Foreign Used, Automatic, 78556km], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 1,200,000], [Foreign Used, Automatic, 75000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 850,000], [Foreign Used, Automatic, 68056km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,120,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 880,000], [Foreign Used, Automatic, 97000km], [ ]]"
+
+"[[Suzuki Swift 2013 Silver], [KSh 682,500], [Kenyan Used, Automatic, 150000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 850,000], [Foreign Used, Automatic, 63000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 800,000], [Foreign Used, Automatic, 54243km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,050,000], [Kenyan Used, Automatic, 58063km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 850,000], [Foreign Used, Automatic, 38434km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 1,060,000], [Foreign Used, Manual, 97000km], [ ]]"
+
+"[[Suzuki Swift 2015], [KSh 900,000], [Foreign Used, Automatic, 45252km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 850,000], [Foreign Used, Automatic, 68000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 980,000], [Foreign Used, Automatic, 48523km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 960,000], [Foreign Used, Automatic, 42000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 800,000], [Foreign Used, Automatic, 58000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 58652km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 950,000], [Foreign Used, Automatic, 146000km], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 880,000], [Foreign Used, Automatic, 56882km], [ ]]"
+
+"[[Suzuki Swift 2013 Silver], [KSh 720,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 830,000], [Foreign Used, Automatic, 71883km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 800,000], [Foreign Used, Automatic, 48000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 1,040,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 800,000], [Foreign Used, Automatic, 98652km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 920,000], [Foreign Used, Automatic, 70000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 950,000], [Foreign Used, Automatic, 85000km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 780,000], [Foreign Used, Automatic, 74525km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 900,000], [Foreign Used, Automatic, 65489km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 800,000], [Foreign Used, Automatic, 71560km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 830,000], [Foreign Used, Automatic, 96863km], [ ]]"
+
+"[[Suzuki Swift 2015 Off White], [KSh 880,000], [Foreign Used, Automatic, 76500km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 780,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Ivory], [KSh 980,000], [Foreign Used, Automatic, 102000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 870,000], [Foreign Used, Automatic, 79000km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 950,000], [Foreign Used, Automatic, 90875km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 850,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 74863km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 795,000], [Kenyan Used, Automatic, 89634km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 900,000], [Foreign Used, Automatic, 67452km], [ ]]"
+
+"[[Suzuki Swift 2014 Matt Black], [KSh 870,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 950,000], [Foreign Used, Automatic, 65000km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 780,000], [Foreign Used, Automatic, 68956km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 950,000], [Foreign Used, Manual, 123000km], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 750,000], [Foreign Used, Automatic, 75852km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 900,000], [Foreign Used, Automatic, 86050km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 950,000], [Foreign Used, Automatic, 72000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 850,000], [Foreign Used, Automatic, 60472km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 849,000], [Foreign Used, Automatic, 85000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 900,000], [Foreign Used, Automatic, 93000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 950,000], [Foreign Used, Automatic, 56280km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 1,120,000], [Foreign Used, Automatic, 50915km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 1,150,000], [Foreign Used, Automatic, 78512km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 70986km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 730,000], [Foreign Used, Automatic, 58160km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 850,000], [Foreign Used, Automatic, 61000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 820,000], [Foreign Used, Automatic, 89910km], [ ]]"
+
+"[[Suzuki Swift 2014 Green], [KSh 830,000], [Foreign Used, Automatic, 73652km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 890,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 800,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Off White], [KSh 850,000], [Foreign Used, Automatic, 65863km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 780,000], [Foreign Used, Automatic, 85636km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 880,000], [Foreign Used, Automatic, 71243km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 950,000], [Foreign Used, Manual, 65000km], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 850,000], [Foreign Used, Automatic, 54985km], [ ]]"
+
+"[[Suzuki Swift 2014 Off White], [KSh 830,000], [Foreign Used, Automatic, 100245km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 850,000], [Foreign Used, Automatic, 76000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 790,000], [Foreign Used, Automatic, 104000km], [ ]]"
+
+"[[Suzuki Swift 2016 Black], [KSh 1,020,000], [Foreign Used, Automatic, 83000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 950,000], [Foreign Used, Automatic, 80452km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 8,500,000], [Foreign Used, Automatic, 63125km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 920,000], [Foreign Used, Automatic, 107000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 850,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 880,000], [Foreign Used, Automatic, 90000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,120,000], [Foreign Used, Automatic, 91000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 850,000], [Foreign Used, Automatic, 85000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 920,000], [Foreign Used, Automatic, 65000km], [ ]]"
+
+"[[Suzuki Swift 2015 Matt Black], [KSh 1,020,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 880,000], [Foreign Used, Automatic, 59000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 920,000], [Foreign Used, Automatic, 87000km], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 1,120,000], [Foreign Used, Automatic, 93000km], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 780,000], [Foreign Used, Automatic, 78452km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 780,000], [Foreign Used, Automatic, 46325km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 940,000], [Foreign Used, Automatic, 38000km], [ ]]"
+
+"[[Suzuki Swift 2015 Pearl], [KSh 920,000], [Foreign Used, Automatic, 42133km], [ ]]"
+
+"[[Suzuki Swift 2012 Silver], [KSh 699,000], [Kenyan Used, Automatic, 132000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 1,000,000], [Foreign Used, Automatic, 84213km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 1,200,000], [Foreign Used, Automatic, 77000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 880,000], [Foreign Used, Automatic, 86400km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 900,000], [Foreign Used, Automatic, 68953km], [ ]]"
+
+"[[Suzuki Swift 2014 Green], [KSh 930,000], [Foreign Used, Automatic, 95000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 845,000], [Foreign Used, Automatic, 80000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 800,000], [Foreign Used, Automatic, 130000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 900,000], [Foreign Used, Automatic, 86390km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 51023km], [ ]]"
+
+"[[Suzuki Swift 2015 Matt Black], [KSh 830,000], [Foreign Used, Automatic, 70852km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 850,000], [Foreign Used, Automatic, 108000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 880,000], [Foreign Used, Automatic, 45236km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 750,000], [Foreign Used, Automatic, 75425km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 880,000], [Foreign Used, Automatic, 49000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 880,000], [Foreign Used, Automatic, 60000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 880,000], [Foreign Used, Automatic, 82000km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 910,000], [Foreign Used, Automatic, 102000km], [ ]]"
+
+"[[Suzuki Swift 2014 Yellow], [KSh 1,100,000], [Foreign Used, Automatic, 50893km], [ ]]"
+
+"[[Suzuki Swift 2013 Black], [KSh 850,000], [Foreign Used, Automatic, 52639km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,050,000], [Foreign Used, Automatic, 147000km], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 1,130,000], [Foreign Used, Manual, 112865km], [ ]]"
+
+"[[Suzuki Swift 2014 Yellow], [KSh 1,150,000], [Foreign Used, Automatic, 63300km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 820,000], [Foreign Used, Automatic, 36910km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 840,000], [Foreign Used, Automatic, 64127km], [ ]]"
+
+"[[Suzuki Swift 2016 Gray], [KSh 900,000], [Foreign Used, Automatic, 55431km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 850,000], [Foreign Used, Manual, 70000km], [ ]]"
+
+"[[Suzuki Swift 2013 Blue], [KSh 700,000], [Foreign Used, Automatic, 69842km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 850,000], [Foreign Used, Automatic, 76000km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 White], [KSh 620,000], [Kenyan Used, Automatic, 90144km], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 830,000], [Foreign Used, Automatic, 72100km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 750,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 830,000], [Foreign Used, Automatic, 86002km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 950,000], [Foreign Used, Automatic, 98000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 750,000], [Foreign Used, Automatic, 74525km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 900,000], [Foreign Used, Automatic, 56386km], [ ]]"
+
+"[[Suzuki Swift 2009 Gray], [KSh 560,000], [Kenyan Used, Automatic, 89000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 980,000], [Foreign Used, Automatic, 65000km], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 880,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 970,000], [Foreign Used, Automatic, 112029km], [ ]]"
+
+"[[Suzuki Swift 2015], [KSh 900,000], [Foreign Used, Automatic, 40000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 800,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 950,000], [Foreign Used, Automatic, 58963km], [ ]]"
+
+"[[Suzuki Swift 2015 Matt Black], [KSh 950,000], [Foreign Used, Automatic, 51325km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 830,000], [Foreign Used, Automatic, 70000km], [ ]]"
+
+"[[Suzuki Swift 2014 Yellow], [KSh 1,100,000], [Foreign Used, Manual, 58636km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 76500km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 1,200,000], [Foreign Used, Automatic, 60000km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 950,000], [Foreign Used, Automatic, 63180km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Yellow], [KSh 780,000], [Kenyan Used, Automatic, 95236km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 950,000], [Foreign Used, Automatic, 72km], [ ]]"
+
+"[[Suzuki Swift 2013 Red], [KSh 880,000], [Foreign Used, Automatic, 71450km], [ ]]"
+
+"[[Suzuki Swift 2013 Black], [KSh 640,000], [Kenyan Used, Automatic, 790000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 800,000], [Foreign Used, Automatic, 52131km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 860,000], [Foreign Used, Automatic, 58000km], [ ]]"
+
+"[[Suzuki Swift 2014], [KSh 850,000], [Foreign Used, Automatic, 68460km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Silver], [KSh 620,000], [Kenyan Used, Automatic, 120000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 1,000,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 1,100,000], [Foreign Used, Manual, 58100km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,000,000], [Foreign Used, Automatic, 54000km], [ ]]"
+
+"[[Suzuki Swift 2015], [KSh 1,100,000], [Foreign Used, Automatic, 112000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 840,000], [Foreign Used, Automatic, 39610km], [ ]]"
+
+"[[Suzuki Swift 2016 Black], [KSh 800,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 850,000], [Foreign Used, Automatic, 89300km], [ ]]"
+
+"[[Suzuki Swift 2012 White], [KSh 680,000], [Foreign Used, Automatic, 74365km], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 880,000], [Foreign Used, Automatic, 70568km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Blue], [KSh 590,000], [Kenyan Used, Automatic, 106000km], [ ]]"
+
+"[[Suzuki Swift 2013 White], [KSh 700,000], [Foreign Used, Automatic, 91881km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,100,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 900,000], [Foreign Used, Automatic, 68000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 850,000], [Foreign Used, Automatic, 85600km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 1,080,000], [Foreign Used, Automatic, 87523km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 800,000], [Foreign Used, Automatic, 86300km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 950,000], [Foreign Used, Automatic, 86514km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 White], [KSh 599,000], [Kenyan Used, Automatic, 181684km], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 1,100,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2010 Red], [KSh 545,000], [Kenyan Used, Automatic, 138905km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 900,000], [Foreign Used, Automatic, 56332km], [ ]]"
+
+"[[New Suzuki Swift 2013 Blue], [KSh 660,000], [Brand New, Automatic, 87412km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,200,000], [Foreign Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2012 1.4 White], [KSh 695,000], [Foreign Used, Automatic, 62855km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 940,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 800,000], [Foreign Used, Automatic, 58000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 850,000], [Foreign Used, Automatic, 63125km], [ ]]"
+
+"[[Suzuki Swift 2014 Matt Black], [KSh 880,000], [Foreign Used, Automatic, 62503km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 1,000,000], [Foreign Used, Automatic, 91076km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 850,000], [Foreign Used, Automatic, 53000km], [ ]]"
+
+"[[Suzuki Swift 2011 1.4 Gray], [KSh 620,000], [Kenyan Used, Automatic, 121568km], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 930,000], [Foreign Used, Automatic, 92352km], [ ]]"
+
+"[[Suzuki Swift 2012 Silver], [KSh 600,000], [Kenyan Used, Automatic, 89412km], [ ]]"
+
+"[[Suzuki Swift 2014 Green], [KSh 1,050,000], [Foreign Used, Automatic, 72000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 750,000], [Foreign Used, Automatic, 76540km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,300,000], [Foreign Used, Automatic, 58000km], [ ]]"
+
+"[[Suzuki Swift 2011 Blue], [KSh 510,000], [Kenyan Used, Automatic, 69412km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 1,085,000], [Foreign Used, Automatic, 79852km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 715,000], [Foreign Used, Automatic, 56380km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 1,050,000], [Foreign Used, Automatic, 36000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 950,000], [Foreign Used, Automatic, 61000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,050,000], [Foreign Used, Automatic, 121000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 860,000], [Foreign Used, Automatic, 62000km], [ ]]"
+
+"[[Suzuki Swift 2009 White], [KSh 530,000], [Kenyan Used, Manual, 185161km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 850,000], [Foreign Used, Automatic, 89954km], [ ]]"
+
+"[[Suzuki Swift 2014 Gray], [KSh 950,000], [Foreign Used, Automatic, 119000km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 900,000], [Foreign Used, Automatic, 78000km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 920,000], [Foreign Used, Automatic, 36000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Red], [KSh 1,049,900], [Foreign Used, Automatic, 46238km], [ ]]"
+
+"[[Suzuki Swift 2015 Gray], [KSh 900,000], [Foreign Used, Automatic, 13000km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 970,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 900,000], [Foreign Used, Automatic, 60000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 900,000], [Foreign Used, Automatic, 88000km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Black], [KSh 670,000], [Kenyan Used, CVT, 185000km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 855,000], [Foreign Used, Automatic, 65085km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 1,050,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 1,050,000], [Foreign Used, Automatic, 67508km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 855,000], [Foreign Used, Automatic, 41466km], [ ]]"
+
+"[[Suzuki Swift 2015 Pearl], [KSh 1,200,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 970,000], [Foreign Used, Automatic, 54000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 899,000], [Foreign Used, Automatic, 53632km], [ ]]"
+
+"[[Suzuki Swift 2015 Pearl], [KSh 730,000], [Foreign Used, Automatic, 63201km], [ ]]"
+
+"[[Suzuki Swift 1.4 2011 White], [KSh 620,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Alto 2015 Red], [KSh 630,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Green], [KSh 1,080,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Blue], [KSh 560,000], [Kenyan Used, Manual, 163000km], [ ]]"
+
+"[[Suzuki Swift 2010 1.4 White], [KSh 550,000], [Kenyan Used, Manual, 97387km], [ ]]"
+
+"[[Suzuki Swift 2014 Teal], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Ivory], [KSh 860,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Gold], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 945,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2006 Blue], [KSh 300,000], [Kenyan Used, Manual, 165000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 955,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 890,000], [Foreign Used, AMT, 63723km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,050,000], [Foreign Used, Automatic, 65073km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 950,000], [Foreign Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 1,050,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,080,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2013 Silver], [KSh 350,000], [Kenyan Used, Automatic, 110000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 1,080,000], [Foreign Used, Manual], [ ]]"
+
+"[[Suzuki Swift 2014 Off White], [KSh 1,099,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2016 Silver], [KSh 870,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2016 White], [KSh 840,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 820,000], [Foreign Used, Automatic, 67723km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 995,000], [Foreign Used, Automatic, 139000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,050,000], [Foreign Used, Automatic, 980000km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 850,000], [Foreign Used, Automatic, 69867km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 780,000], [Foreign Used, Automatic, 68130km], [ ]]"
+
+"[[Suzuki Swift 2014 Yellow], [KSh 900,000], [Foreign Used, Automatic, 72543km], [ ]]"
+
+"[[Suzuki Swift 2014 Green], [KSh 900,000], [Foreign Used, Automatic, 75389km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 830,000], [Foreign Used, Automatic, 64850km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 920,000], [Foreign Used, Automatic, 111000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 820,000], [Foreign Used, Automatic, 72384km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 950,000], [Foreign Used, Automatic, 80000km], [ ]]"
+
+"[[Suzuki Swift 2006 Blue], [KSh 250,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 999,900], [Foreign Used, Automatic, 86234km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 950,000], [Foreign Used, Automatic, 37521km], [ ]]"
+
+"[[Suzuki Swift 1.3 2008 Red], [KSh 499,000], [Kenyan Used, Automatic, 131000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 875,000], [Foreign Used, Automatic, 35000km], [ ]]"
+
+"[[Suzuki Swift 2014 Pearl], [KSh 940,000], [Foreign Used, CVT, 147000km], [ ]]"
+
+"[[Suzuki Swift 2015 Blue], [KSh 1,020,000], [Foreign Used, Automatic, 162000km], [ ]]"
+
+"[[Suzuki Swift 2015 Black], [KSh 800,000], [Foreign Used, Automatic, 66482km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 980,000], [Foreign Used, Automatic, 68000km], [ ]]"
+
+"[[Suzuki Swift 2014 White], [KSh 730,000], [Foreign Used, Automatic, 92000km], [ ]]"
+
+"[[Suzuki Swift 1.4 2011 Black], [KSh 590,000], [Kenyan Used, Automatic, 181000km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 1,049,900], [Foreign Used, Automatic, 56823km], [ ]]"
+
+"[[Suzuki Swift 2014 Blue], [KSh 990,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 800,000], [Foreign Used, Automatic, 64057km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 Silver], [KSh 630,000], [Kenyan Used, Automatic, 162000km], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 1,000,000], [Foreign Used, Automatic, 105011km], [ ]]"
+
+"[[Suzuki Samurai 1991 Green], [KSh 750,000], [Kenyan Used, Manual, 72982km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 950,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2010 1.4 Silver], [KSh 480,000], [Kenyan Used, Automatic, 147000km], [ ]]"
+
+"[[Suzuki Swift 2015 White], [KSh 1,030,000], [Foreign Used, Automatic, 92710km], [ ]]"
+
+"[[Suzuki Swift 2014 Black], [KSh 740,000], [Kenyan Used, Automatic, 144000km], [ ]]"
+
+"[[Suzuki Swift 1.4 2012 White], [KSh 650,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2011 1.4 Red], [KSh 545,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 900,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 920,000], [Foreign Used, Automatic, 94069km], [ ]]"
+
+"[[Suzuki Swift 2010 1.4 White], [KSh 580,000], [Kenyan Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 799,999], [Foreign Used, Automatic, 97563km], [ ]]"
+
+"[[Suzuki Swift 2015 Green], [KSh 1,120,000], [Foreign Used, Automatic, 52000km], [ ]]"
+
+"[[Suzuki Swift 2014 Silver], [KSh 880,000], [Foreign Used, Automatic, 42000km], [ ]]"
+
+"[[Suzuki Swift 2014 Red], [KSh 920,000], [Foreign Used, Automatic, 95000km], [ ]]"
+
+"[[Suzuki Swift 2015 Yellow], [KSh 1,250,000], [Foreign Used, Manual, 78000km], [ ]]"
+
+"[[Suzuki Swift 2015 Burgandy], [KSh 990,000], [Foreign Used, Automatic, 56808km], [ ]]"
+
+"[[Suzuki Swift 2009 White], [KSh 630,000], [Kenyan Used, Manual, 121385km], [ ]]"
+
+"[[Suzuki Swift 2015 Silver], [KSh 999,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2014 Yellow], [KSh 1,000,000], [Foreign Used, Manual, 18510km], [ ]]"
+
+"[[Suzuki Alto 2014 White], [KSh 650,000], [Foreign Used, Automatic], [ ]]"
+
+"[[Suzuki Swift 2006 Silver], [KSh 295,000], [Kenyan Used, Automatic, 1687859km], [ ]]"
+
+"[[Suzuki Swift 2013 Green], [KSh 790,000], [Foreign Used, Automatic], [ ]]"
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+""
+
+Suzuki Swift 2015 Blue,"KSh 1,020,000",Foreign Used,Automatic,162000km
+
+Suzuki Swift 2015 White,"KSh 890,000",Foreign Used,AMT,63723km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,65073km
+
+Suzuki Swift 2014 Pearl,"KSh 940,000",Foreign Used,CVT,147000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,94069km
+
+Subaru Legacy 2.0 AWD 2007 Gray,"KSh 735,000",Kenyan Used,Automatic,134000km
+
+Suzuki Swift 1.4 2012 Black,"KSh 630,000",Kenyan Used,Manual
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,84951km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,71601km
+
+Suzuki Swift 2015 Silver,"KSh 980,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2013 Silver,"KSh 790,000",Foreign Used,Automatic,96541km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,68934km
+
+Suzuki Swift 2014 White,"KSh 1,080,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Blue,"KSh 955,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Teal,"KSh 980,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Beige,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Pearl,"KSh 1,030,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 830,000",Foreign Used,Automatic,78450km
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Blue,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 1.4 2011 Black,"KSh 590,000",Kenyan Used,Automatic,181000km
+
+Suzuki Swift 2015 White,"KSh 1,050,000",Foreign Used,Automatic,980000km
+
+Toyota Corolla RunX 2004 White,"KSh 570,000",Kenyan Used,Automatic,143000km
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 895,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2016 Gray,"KSh 1,080,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2013 White,"KSh 650,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 740,000",Kenyan Used,Automatic,144000km
+
+Suzuki Swift 2014 Blue,"KSh 1,000,000",Foreign Used,Automatic,116176km
+
+Suzuki Swift 2014 Red,"KSh 950,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,37521km
+
+Suzuki Swift 2017 Gray,"KSh 1,200,000",Foreign Used,Automatic,65481km
+
+Suzuki Swift 2013 Red,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 1,150,000",Foreign Used,Automatic,154851km
+
+Suzuki Swift 2015 White,"KSh 1,100,000",Foreign Used,Automatic,41426km
+
+Suzuki Swift 2016 Red,"KSh 980,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2013 Silver,"KSh 700,000",Kenyan Used,Automatic,80300km
+
+Suzuki Swift 2014 White,"KSh 980,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 995,000",Foreign Used,Automatic,139000km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,111000km
+
+Suzuki Swift 2015 Black,"KSh 875,000",Foreign Used,Automatic,35000km
+
+Suzuki Swift 2011 1.4 Red,"KSh 545,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 990,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,68502km
+
+Suzuki Swift 2015 Gray,"KSh 1,050,000",Foreign Used,Automatic,142804km
+
+Suzuki Swift 2016 Silver,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 870,000",Foreign Used,Automatic,78563km
+
+Suzuki Swift 2014 Red,"KSh 880,000",Foreign Used,Automatic,65856km
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,68053km
+
+Suzuki Swift 2014 black,"KSh 879,999",Automatic,138357km
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,151000km
+
+Suzuki Swift 2014 Red,"KSh 850,000",Foreign Used,Automatic,45610km
+
+Suzuki Swift 2015 Blue,"KSh 1,100,000",Foreign Used,Manual,63125km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,82000km
+
+Suzuki Swift 2014 White,"KSh 990,000",Foreign Used,Automatic,130000km
+
+Suzuki Swift 2015 Green,"KSh 1,049,900",Foreign Used,Automatic,56823km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 1,030,000",Foreign Used,Automatic,92710km
+
+Toyota Raum 2004 Silver,"KSh 520,000",Kenyan Used,Automatic
+
+Toyota Ractis 2013 Silver,"KSh 790,000",Kenyan Used,Automatic,100000km
+
+Nissan Note 2014 Silver,"KSh 675,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 1,050,000",Foreign Used,Automatic,113000km
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,70556km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2015 Pearl,"KSh 930,000",Foreign Used,Automatic,68532km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,45120km
+
+Suzuki Swift 2015 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,40000km
+
+Suzuki Swift 2016 Black,"KSh 1,050,000",Foreign Used,Automatic,64515km
+
+Suzuki Swift 2015 Black,"KSh 1,030,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Pink,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 930,000",Foreign Used,Automatic,88000km
+
+Suzuki Swift 2015 White,"KSh 880,000",Foreign Used,Automatic,68885km
+
+Toyota Ractis 2009 Silver,"KSh 580,000",Kenyan Used,Automatic
+
+Renault Kwid 2018 Silver,"KSh 650,000",Kenyan Used,Automatic,30650km
+
+Suzuki Swift 2015 Burgandy,"KSh 990,000",Foreign Used,Automatic,56808km
+
+Suzuki Swift 2015 Silver,"KSh 999,000",Foreign Used,Automatic
+
+Mitsubishi Mirage 2013 Silver,"KSh 595,000",Foreign Used,Automatic,153000km
+
+Subaru Forester 2.0 X Comfort 2008 Silver,"KSh 1,099,999",Kenyan Used,Automatic
+
+Suzuki Swift 2015 Brown,"KSh 930,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Off white,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 1,000,000",Foreign Used,Automatic,64758km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,95453km
+
+Suzuki Swift 2014 Silver,"KSh 830,000",Foreign Used,Automatic,70558km
+
+Suzuki Swift 2014 Gray,"KSh 860,000",Kenyan Used,Automatic,65000km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic,67000km
+
+Suzuki Swift 2015 Red,"KSh 870,000",Foreign Used,Automatic,89000km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,45120km
+
+Suzuki Swift 2014 Blue,"KSh 960,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Pearl,"KSh 1,150,000",Foreign Used,Automatic,56328km
+
+Mercedes-Benz C200 2005 Gold,"KSh 799,000",Kenyan Used,Automatic
+
+Mercedes-Benz C200 2008 White,"KSh 1,330,000",Kenyan Used,Automatic
+
+Toyota Mark X 2.5 AWD 2008 White,"KSh 580,000",Kenyan Used,Automatic
+
+Toyota Corona Premio 2000 Gray,"KSh 390,000",Kenyan Used,Automatic
+
+Mazda Demio 2011 Silver,"KSh 449,000",Kenyan Used,Automatic
+
+Toyota Corolla RunX 2003 Silver,"KSh 490,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2015 Teal,"KSh 850,000",Foreign Used,Automatic,49635km
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Yellow,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,54200km
+
+Suzuki Swift 2015 Silver,"KSh 930,000",Foreign Used,Automatic,94069km
+
+Suzuki Swift 2014 Teal,"KSh 850,000",Foreign Used,Automatic,60896km
+
+Suzuki Swift 2014 Gray,"KSh 880,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2015 Red,"KSh 800,000",Foreign Used,Automatic,53190km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 950,000",Foreign Used,Automatic,42800km
+
+Suzuki Swift 2015 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Mitsubishi Lancer 1998 Silver,"KSh 285,000",Kenyan Used,Automatic
+
+Nissan Sunny B15 Sedan 1.5 2004 Gold,"KSh 345,000",Kenyan Used,Automatic
+
+Mazda Demio 2011 Gray,"KSh 445,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Automatic,132116km
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,59000km
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,174277km
+
+Suzuki Swift 2014 White,"KSh 830,000",Foreign Used,Automatic,160000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,AMT,52000km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,42390km
+
+Suzuki Swift 2014 Off White,"KSh 800,000",Foreign Used,Automatic,62000km
+
+Suzuki Swift 2015 Blue,"KSh 830,000",Kenyan Used,Automatic,105000km
+
+Suzuki Swift 2014 Blue,"KSh 840,000",Foreign Used,Automatic,79808km
+
+Suzuki Swift 2014 Red,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,53808km
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,72135km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 900,000",Foreign Used,Automatic,47232km
+
+Suzuki Swift 2016 White,"KSh 950,000",Foreign Used,Automatic,100423km
+
+Suzuki Swift 2014 Ivory,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014,"KSh 880,000",Foreign Used,Automatic,54212km
+
+Suzuki Swift 2015 White,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 1,090,000",Foreign Used,Automatic,50710km
+
+Suzuki Swift 2014 Silver,"KSh 940,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,72858km
+
+Suzuki Swift 2014 Blue,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2013 White,"KSh 880,000",Foreign Used,Automatic,78556km
+
+Suzuki Swift 2014,"KSh 1,200,000",Foreign Used,Automatic,75000km
+
+Suzuki Swift 2014 Black,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014,"KSh 850,000",Foreign Used,Automatic,68056km
+
+Suzuki Swift 2015 Blue,"KSh 1,120,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,97000km
+
+Suzuki Swift 2013 Silver,"KSh 682,500",Kenyan Used,Automatic,150000km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2015 Silver,"KSh 800,000",Foreign Used,Automatic,54243km
+
+Suzuki Swift 2014 White,"KSh 1,050,000",Kenyan Used,Automatic,58063km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,38434km
+
+Suzuki Swift 2014 Pearl,"KSh 1,060,000",Foreign Used,Manual,97000km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,45252km
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 Silver,"KSh 980,000",Foreign Used,Automatic,48523km
+
+Suzuki Swift 2014 Blue,"KSh 960,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,58652km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,146000km
+
+Suzuki Swift 2014,"KSh 880,000",Foreign Used,Automatic,56882km
+
+Suzuki Swift 2013 Silver,"KSh 720,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,71883km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic,48000km
+
+Suzuki Swift 2014 Black,"KSh 1,040,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,98652km
+
+Suzuki Swift 2014 Blue,"KSh 920,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2014 Red,"KSh 780,000",Foreign Used,Automatic,74525km
+
+Suzuki Swift 2015 Blue,"KSh 900,000",Foreign Used,Automatic,65489km
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,71560km
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,96863km
+
+Suzuki Swift 2015 Off White,"KSh 880,000",Foreign Used,Automatic,76500km
+
+Suzuki Swift 2014 Blue,"KSh 780,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 980,000",Foreign Used,Automatic,102000km
+
+Suzuki Swift 2014 Black,"KSh 870,000",Foreign Used,Automatic,79000km
+
+Suzuki Swift 2015 Green,"KSh 950,000",Foreign Used,Automatic,90875km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,74863km
+
+Suzuki Swift 2014 Red,"KSh 795,000",Kenyan Used,Automatic,89634km
+
+Suzuki Swift 2015 Gray,"KSh 900,000",Foreign Used,Automatic,67452km
+
+Suzuki Swift 2014 Matt Black,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 950,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2014 Pearl,"KSh 780,000",Foreign Used,Automatic,68956km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual,123000km
+
+Suzuki Swift 2013 White,"KSh 750,000",Foreign Used,Automatic,75852km
+
+Suzuki Swift 2015 Blue,"KSh 900,000",Foreign Used,Automatic,86050km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,72000km
+
+Suzuki Swift 2015 White,"KSh 850,000",Foreign Used,Automatic,60472km
+
+Suzuki Swift 2014 Silver,"KSh 849,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2015 Black,"KSh 900,000",Foreign Used,Automatic,93000km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,56280km
+
+Suzuki Swift 2014 Red,"KSh 1,120,000",Foreign Used,Automatic,50915km
+
+Suzuki Swift 2014 Gray,"KSh 1,150,000",Foreign Used,Automatic,78512km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,70986km
+
+Suzuki Swift 2014 Gray,"KSh 730,000",Foreign Used,Automatic,58160km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,61000km
+
+Suzuki Swift 2015 Silver,"KSh 820,000",Foreign Used,Automatic,89910km
+
+Suzuki Swift 2014 Green,"KSh 830,000",Foreign Used,Automatic,73652km
+
+Suzuki Swift 2015 Silver,"KSh 890,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Off White,"KSh 850,000",Foreign Used,Automatic,65863km
+
+Suzuki Swift 2014 Gray,"KSh 780,000",Foreign Used,Automatic,85636km
+
+Suzuki Swift 2015 Green,"KSh 880,000",Foreign Used,Automatic,71243km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Manual,65000km
+
+Suzuki Swift 2015 Red,"KSh 850,000",Foreign Used,Automatic,54985km
+
+Suzuki Swift 2014 Off White,"KSh 830,000",Foreign Used,Automatic,100245km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic,76000km
+
+Suzuki Swift 2014 Blue,"KSh 790,000",Foreign Used,Automatic,104000km
+
+Suzuki Swift 2016 Black,"KSh 1,020,000",Foreign Used,Automatic,83000km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Automatic,80452km
+
+Suzuki Swift 2015 Gray,"KSh 8,500,000",Foreign Used,Automatic,63125km
+
+Suzuki Swift 2014 Blue,"KSh 920,000",Foreign Used,Automatic,107000km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,90000km
+
+Suzuki Swift 2015 Blue,"KSh 1,120,000",Foreign Used,Automatic,91000km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2014 White,"KSh 920,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2015 Matt Black,"KSh 1,020,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,59000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,87000km
+
+Suzuki Swift 2015 Red,"KSh 1,120,000",Foreign Used,Automatic,93000km
+
+Suzuki Swift 2014,"KSh 780,000",Foreign Used,Automatic,78452km
+
+Suzuki Swift 2014 Blue,"KSh 780,000",Foreign Used,Automatic,46325km
+
+Suzuki Swift 2014 White,"KSh 940,000",Foreign Used,Automatic,38000km
+
+Suzuki Swift 2015 Pearl,"KSh 920,000",Foreign Used,Automatic,42133km
+
+Suzuki Swift 2012 Silver,"KSh 699,000",Kenyan Used,Automatic,132000km
+
+Suzuki Swift 2014 Silver,"KSh 1,000,000",Foreign Used,Automatic,84213km
+
+Suzuki Swift 2015 Gray,"KSh 1,200,000",Foreign Used,Automatic,77000km
+
+Suzuki Swift 2015 Black,"KSh 880,000",Foreign Used,Automatic,86400km
+
+Suzuki Swift 2015 Black,"KSh 900,000",Foreign Used,Automatic,68953km
+
+Suzuki Swift 2014 Green,"KSh 930,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2014 Silver,"KSh 845,000",Foreign Used,Automatic,80000km
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,130000km
+
+Suzuki Swift 2015 White,"KSh 900,000",Foreign Used,Automatic,86390km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,51023km
+
+Suzuki Swift 2015 Matt Black,"KSh 830,000",Foreign Used,Automatic,70852km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,108000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,45236km
+
+Suzuki Swift 2014 Silver,"KSh 750,000",Foreign Used,Automatic,75425km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic,49000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,82000km
+
+Suzuki Swift 2014 Gray,"KSh 910,000",Foreign Used,Automatic,102000km
+
+Suzuki Swift 2014 Yellow,"KSh 1,100,000",Foreign Used,Automatic,50893km
+
+Suzuki Swift 2013 Black,"KSh 850,000",Foreign Used,Automatic,52639km
+
+Suzuki Swift 2014 White,"KSh 1,050,000",Foreign Used,Automatic,147000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,130,000",Foreign Used,Manual,112865km
+
+Suzuki Swift 2014 Yellow,"KSh 1,150,000",Foreign Used,Automatic,63300km
+
+Suzuki Swift 2015 Green,"KSh 820,000",Foreign Used,Automatic,36910km
+
+Suzuki Swift 2014 Blue,"KSh 840,000",Foreign Used,Automatic,64127km
+
+Suzuki Swift 2016 Gray,"KSh 900,000",Foreign Used,Automatic,55431km
+
+Suzuki Swift 2014 Red,"KSh 850,000",Foreign Used,Manual,70000km
+
+Suzuki Swift 2013 Blue,"KSh 700,000",Foreign Used,Automatic,69842km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,76000km
+
+Suzuki Swift 1.4 2012 White,"KSh 620,000",Kenyan Used,Automatic,90144km
+
+Suzuki Swift 2014,"KSh 830,000",Foreign Used,Automatic,72100km
+
+Suzuki Swift 2014 White,"KSh 750,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,86002km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,98000km
+
+Suzuki Swift 2014 White,"KSh 750,000",Foreign Used,Automatic,74525km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic,56386km
+
+Suzuki Swift 2009 Gray,"KSh 560,000",Kenyan Used,Automatic,89000km
+
+Suzuki Swift 2014 Blue,"KSh 980,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2013 White,"KSh 880,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 970,000",Foreign Used,Automatic,112029km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,40000km
+
+Suzuki Swift 2014 Blue,"KSh 800,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,58963km
+
+Suzuki Swift 2015 Matt Black,"KSh 950,000",Foreign Used,Automatic,51325km
+
+Suzuki Swift 2014 Red,"KSh 830,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2014 Yellow,"KSh 1,100,000",Foreign Used,Manual,58636km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,76500km
+
+Suzuki Swift 2014 Blue,"KSh 1,200,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,63180km
+
+Suzuki Swift 1.4 2012 Yellow,"KSh 780,000",Kenyan Used,Automatic,95236km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,72km
+
+Suzuki Swift 2013 Red,"KSh 880,000",Foreign Used,Automatic,71450km
+
+Suzuki Swift 2013 Black,"KSh 640,000",Kenyan Used,Automatic,790000km
+
+Suzuki Swift 2015 Black,"KSh 800,000",Foreign Used,Automatic,52131km
+
+Suzuki Swift 2014 Red,"KSh 860,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2014,"KSh 850,000",Foreign Used,Automatic,68460km
+
+Suzuki Swift 1.4 2012 Silver,"KSh 620,000",Kenyan Used,Automatic,120000km
+
+Suzuki Swift 2014 Black,"KSh 1,000,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Yellow,"KSh 1,100,000",Foreign Used,Manual,58100km
+
+Suzuki Swift 2014 White,"KSh 1,000,000",Foreign Used,Automatic,54000km
+
+Suzuki Swift 2015,"KSh 1,100,000",Foreign Used,Automatic,112000km
+
+Suzuki Swift 2015 Black,"KSh 840,000",Foreign Used,Automatic,39610km
+
+Suzuki Swift 2016 Black,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Gray,"KSh 850,000",Foreign Used,Automatic,89300km
+
+Suzuki Swift 2012 White,"KSh 680,000",Foreign Used,Automatic,74365km
+
+Suzuki Swift 2013 White,"KSh 880,000",Foreign Used,Automatic,70568km
+
+Suzuki Swift 1.4 2012 Blue,"KSh 590,000",Kenyan Used,Automatic,106000km
+
+Suzuki Swift 2013 White,"KSh 700,000",Foreign Used,Automatic,91881km
+
+Suzuki Swift 2014 White,"KSh 1,100,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 900,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic,85600km
+
+Suzuki Swift 2014 Pearl,"KSh 1,080,000",Foreign Used,Automatic,87523km
+
+Suzuki Swift 2015 White,"KSh 800,000",Foreign Used,Automatic,86300km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,86514km
+
+Suzuki Swift 1.4 2012 White,"KSh 599,000",Kenyan Used,Automatic,181684km
+
+Suzuki Swift 2015 Yellow,"KSh 1,100,000",Foreign Used,Automatic
+
+Suzuki Swift 2010 Red,"KSh 545,000",Kenyan Used,Automatic,138905km
+
+Suzuki Swift 2014 Pearl,"KSh 900,000",Foreign Used,Automatic,56332km
+
+New Suzuki Swift 2013 Blue,"KSh 660,000",Brand New,Automatic,87412km
+
+Suzuki Swift 2015 White,"KSh 1,200,000",Foreign Used,Manual
+
+Suzuki Swift 2012 1.4 White,"KSh 695,000",Foreign Used,Automatic,62855km
+
+Suzuki Swift 2014 White,"KSh 940,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2015 Silver,"KSh 850,000",Foreign Used,Automatic,63125km
+
+Suzuki Swift 2014 Matt Black,"KSh 880,000",Foreign Used,Automatic,62503km
+
+Suzuki Swift 2014 Silver,"KSh 1,000,000",Foreign Used,Automatic,91076km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,53000km
+
+Suzuki Swift 2011 1.4 Gray,"KSh 620,000",Kenyan Used,Automatic,121568km
+
+Suzuki Swift 2015 Red,"KSh 930,000",Foreign Used,Automatic,92352km
+
+Suzuki Swift 2012 Silver,"KSh 600,000",Kenyan Used,Automatic,89412km
+
+Suzuki Swift 2014 Green,"KSh 1,050,000",Foreign Used,Automatic,72000km
+
+Suzuki Swift 2014 Silver,"KSh 750,000",Foreign Used,Automatic,76540km
+
+Suzuki Swift 2014 White,"KSh 1,300,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2011 Blue,"KSh 510,000",Kenyan Used,Automatic,69412km
+
+Suzuki Swift 2015 Black,"KSh 1,085,000",Foreign Used,Automatic,79852km
+
+Suzuki Swift 2014 Red,"KSh 715,000",Foreign Used,Automatic,56380km
+
+Suzuki Swift 2014 Pearl,"KSh 1,050,000",Foreign Used,Automatic,36000km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic,61000km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,121000km
+
+Suzuki Swift 2014 Blue,"KSh 860,000",Foreign Used,Automatic,62000km
+
+Suzuki Swift 2009 White,"KSh 530,000",Kenyan Used,Manual,185161km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,89954km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,119000km
+
+Suzuki Swift 2014 Red,"KSh 900,000",Foreign Used,Automatic,78000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,36000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Red,"KSh 1,049,900",Foreign Used,Automatic,46238km
+
+Suzuki Swift 2015 Gray,"KSh 900,000",Foreign Used,Automatic,13000km
+
+Suzuki Swift 2014 Red,"KSh 970,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 900,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2014 Blue,"KSh 900,000",Foreign Used,Automatic,88000km
+
+Suzuki Swift 1.4 2012 Black,"KSh 670,000",Kenyan Used,CVT,185000km
+
+Suzuki Swift 2014 Black,"KSh 855,000",Foreign Used,Automatic,65085km
+
+Suzuki Swift 2015 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 1,050,000",Foreign Used,Automatic,67508km
+
+Suzuki Swift 2014 Silver,"KSh 855,000",Foreign Used,Automatic,41466km
+
+Suzuki Swift 2015 Pearl,"KSh 1,200,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 970,000",Foreign Used,Automatic,54000km
+
+Suzuki Swift 2014 White,"KSh 899,000",Foreign Used,Automatic,53632km
+
+Suzuki Swift 2015 Pearl,"KSh 730,000",Foreign Used,Automatic,63201km
+
+Suzuki Swift 1.4 2011 White,"KSh 620,000",Kenyan Used,Automatic
+
+Suzuki Alto 2015 Red,"KSh 630,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Green,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 1.4 2012 Blue,"KSh 560,000",Kenyan Used,Manual,163000km
+
+Suzuki Swift 2010 1.4 White,"KSh 550,000",Kenyan Used,Manual,97387km
+
+Suzuki Swift 2014 Teal,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 860,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gold,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 945,000",Foreign Used,Automatic
+
+Suzuki Swift 2006 Blue,"KSh 300,000",Kenyan Used,Manual,165000km
+
+Suzuki Swift 2014 Blue,"KSh 955,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 890,000",Foreign Used,AMT,63723km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,65073km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2013 Silver,"KSh 350,000",Kenyan Used,Automatic,110000km
+
+Suzuki Swift 2014 White,"KSh 1,080,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Off White,"KSh 1,099,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Silver,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 White,"KSh 840,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 820,000",Foreign Used,Automatic,67723km
+
+Suzuki Swift 2014 White,"KSh 995,000",Foreign Used,Automatic,139000km
+
+Suzuki Swift 2015 White,"KSh 1,050,000",Foreign Used,Automatic,980000km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,69867km
+
+Suzuki Swift 2014 Black,"KSh 780,000",Foreign Used,Automatic,68130km
+
+Suzuki Swift 2014 Yellow,"KSh 900,000",Foreign Used,Automatic,72543km
+
+Suzuki Swift 2014 Green,"KSh 900,000",Foreign Used,Automatic,75389km
+
+Suzuki Swift 2015 Silver,"KSh 830,000",Foreign Used,Automatic,64850km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,111000km
+
+Suzuki Swift 2014 Silver,"KSh 820,000",Foreign Used,Automatic,72384km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,80000km
+
+Suzuki Swift 2006 Blue,"KSh 250,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 999,900",Foreign Used,Automatic,86234km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,37521km
+
+Suzuki Swift 1.3 2008 Red,"KSh 499,000",Kenyan Used,Automatic,131000km
+
+Suzuki Swift 2015 Black,"KSh 875,000",Foreign Used,Automatic,35000km
+
+Suzuki Swift 2014 Pearl,"KSh 940,000",Foreign Used,CVT,147000km
+
+Suzuki Swift 2015 Blue,"KSh 1,020,000",Foreign Used,Automatic,162000km
+
+Suzuki Swift 2015 Black,"KSh 800,000",Foreign Used,Automatic,66482km
+
+Suzuki Swift 2014 White,"KSh 980,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 730,000",Foreign Used,Automatic,92000km
+
+Suzuki Swift 1.4 2011 Black,"KSh 590,000",Kenyan Used,Automatic,181000km
+
+Suzuki Swift 2015 Green,"KSh 1,049,900",Foreign Used,Automatic,56823km
+
+Suzuki Swift 2014 Blue,"KSh 990,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,64057km
+
+Suzuki Swift 1.4 2012 Silver,"KSh 630,000",Kenyan Used,Automatic,162000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,000,000",Foreign Used,Automatic,105011km
+
+Suzuki Samurai 1991 Green,"KSh 750,000",Kenyan Used,Manual,72982km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2010 1.4 Silver,"KSh 480,000",Kenyan Used,Automatic,147000km
+
+Suzuki Swift 2015 White,"KSh 1,030,000",Foreign Used,Automatic,92710km
+
+Suzuki Swift 2014 Black,"KSh 740,000",Kenyan Used,Automatic,144000km
+
+Suzuki Swift 1.4 2012 White,"KSh 650,000",Kenyan Used,Automatic
+
+Suzuki Swift 2011 1.4 Red,"KSh 545,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,94069km
+
+Suzuki Swift 2010 1.4 White,"KSh 580,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 799,999",Foreign Used,Automatic,97563km
+
+Suzuki Swift 2015 Green,"KSh 1,120,000",Foreign Used,Automatic,52000km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2014 Red,"KSh 920,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,250,000",Foreign Used,Manual,78000km
+
+Suzuki Swift 2015 Burgandy,"KSh 990,000",Foreign Used,Automatic,56808km
+
+Suzuki Swift 2009 White,"KSh 630,000",Kenyan Used,Manual,121385km
+
+Suzuki Swift 2015 Silver,"KSh 999,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Yellow,"KSh 1,000,000",Foreign Used,Manual,18510km
+
+Suzuki Alto 2014 White,"KSh 650,000",Foreign Used,Automatic
+
+Suzuki Swift 2006 Silver,"KSh 295,000",Kenyan Used,Automatic,1687859km
+
+Suzuki Swift 2013 Green,"KSh 790,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 1,020,000",Foreign Used,Automatic,162000km
+
+Suzuki Swift 2015 White,"KSh 890,000",Foreign Used,AMT,63723km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,65073km
+
+Suzuki Swift 2014 Pearl,"KSh 940,000",Foreign Used,CVT,147000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,94069km
+
+Subaru Legacy 2.0 AWD 2007 Gray,"KSh 735,000",Kenyan Used,Automatic,134000km
+
+Suzuki Swift 1.4 2012 Black,"KSh 630,000",Kenyan Used,Manual
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,84951km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,71601km
+
+Suzuki Swift 2015 Silver,"KSh 980,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2013 Silver,"KSh 790,000",Foreign Used,Automatic,96541km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,68934km
+
+Suzuki Swift 2014 White,"KSh 1,080,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Blue,"KSh 955,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Teal,"KSh 980,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Beige,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Pearl,"KSh 1,030,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 830,000",Foreign Used,Automatic,78450km
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Blue,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 1.4 2011 Black,"KSh 590,000",Kenyan Used,Automatic,181000km
+
+Suzuki Swift 2015 White,"KSh 1,050,000",Foreign Used,Automatic,980000km
+
+Toyota Corolla RunX 2004 White,"KSh 570,000",Kenyan Used,Automatic,143000km
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 895,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2016 Gray,"KSh 1,080,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2013 White,"KSh 650,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 740,000",Kenyan Used,Automatic,144000km
+
+Suzuki Swift 2014 Blue,"KSh 1,000,000",Foreign Used,Automatic,116176km
+
+Suzuki Swift 2014 Red,"KSh 950,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,37521km
+
+Suzuki Swift 2017 Gray,"KSh 1,200,000",Foreign Used,Automatic,65481km
+
+Suzuki Swift 2013 Red,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 1,150,000",Foreign Used,Automatic,154851km
+
+Suzuki Swift 2015 White,"KSh 1,100,000",Foreign Used,Automatic,41426km
+
+Suzuki Swift 2016 Red,"KSh 980,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2013 Silver,"KSh 700,000",Kenyan Used,Automatic,80300km
+
+Suzuki Swift 2014 White,"KSh 980,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 995,000",Foreign Used,Automatic,139000km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,111000km
+
+Suzuki Swift 2015 Black,"KSh 875,000",Foreign Used,Automatic,35000km
+
+Suzuki Swift 2011 1.4 Red,"KSh 545,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 990,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,68502km
+
+Suzuki Swift 2015 Gray,"KSh 1,050,000",Foreign Used,Automatic,142804km
+
+Suzuki Swift 2016 Silver,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 870,000",Foreign Used,Automatic,78563km
+
+Suzuki Swift 2014 Red,"KSh 880,000",Foreign Used,Automatic,65856km
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,68053km
+
+Suzuki Swift 2014 black,"KSh 879,999",Automatic,138357km
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,151000km
+
+Suzuki Swift 2014 Red,"KSh 850,000",Foreign Used,Automatic,45610km
+
+Suzuki Swift 2015 Blue,"KSh 1,100,000",Foreign Used,Manual,63125km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,82000km
+
+Suzuki Swift 2014 White,"KSh 990,000",Foreign Used,Automatic,130000km
+
+Suzuki Swift 2015 Green,"KSh 1,049,900",Foreign Used,Automatic,56823km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 1,030,000",Foreign Used,Automatic,92710km
+
+Toyota Raum 2004 Silver,"KSh 520,000",Kenyan Used,Automatic
+
+Toyota Ractis 2013 Silver,"KSh 790,000",Kenyan Used,Automatic,100000km
+
+Nissan Note 2014 Silver,"KSh 675,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 1,050,000",Foreign Used,Automatic,113000km
+
+Suzuki Swift 2015 White,"KSh 1,000,000",Foreign Used,Automatic,70556km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2015 Pearl,"KSh 930,000",Foreign Used,Automatic,68532km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,45120km
+
+Suzuki Swift 2015 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,40000km
+
+Suzuki Swift 2016 Black,"KSh 1,050,000",Foreign Used,Automatic,64515km
+
+Suzuki Swift 2015 Black,"KSh 1,030,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Pink,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 930,000",Foreign Used,Automatic,88000km
+
+Suzuki Swift 2015 White,"KSh 880,000",Foreign Used,Automatic,68885km
+
+Toyota Ractis 2009 Silver,"KSh 580,000",Kenyan Used,Automatic
+
+Renault Kwid 2018 Silver,"KSh 650,000",Kenyan Used,Automatic,30650km
+
+Suzuki Swift 2015 Burgandy,"KSh 990,000",Foreign Used,Automatic,56808km
+
+Suzuki Swift 2015 Silver,"KSh 999,000",Foreign Used,Automatic
+
+Mitsubishi Mirage 2013 Silver,"KSh 595,000",Foreign Used,Automatic,153000km
+
+Subaru Forester 2.0 X Comfort 2008 Silver,"KSh 1,099,999",Kenyan Used,Automatic
+
+Suzuki Swift 2015 Brown,"KSh 930,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Off white,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 1,000,000",Foreign Used,Automatic,64758km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,95453km
+
+Suzuki Swift 2014 Silver,"KSh 830,000",Foreign Used,Automatic,70558km
+
+Suzuki Swift 2014 Gray,"KSh 860,000",Kenyan Used,Automatic,65000km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic,67000km
+
+Suzuki Swift 2015 Red,"KSh 870,000",Foreign Used,Automatic,89000km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,45120km
+
+Suzuki Swift 2014 Blue,"KSh 960,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Pearl,"KSh 1,150,000",Foreign Used,Automatic,56328km
+
+Mercedes-Benz C200 2005 Gold,"KSh 799,000",Kenyan Used,Automatic
+
+Mercedes-Benz C200 2008 White,"KSh 1,330,000",Kenyan Used,Automatic
+
+Toyota Mark X 2.5 AWD 2008 White,"KSh 580,000",Kenyan Used,Automatic
+
+Toyota Corona Premio 2000 Gray,"KSh 390,000",Kenyan Used,Automatic
+
+Mazda Demio 2011 Silver,"KSh 449,000",Kenyan Used,Automatic
+
+Toyota Corolla RunX 2003 Silver,"KSh 490,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2015 Teal,"KSh 850,000",Foreign Used,Automatic,49635km
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Yellow,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,54200km
+
+Suzuki Swift 2015 Silver,"KSh 930,000",Foreign Used,Automatic,94069km
+
+Suzuki Swift 2014 Teal,"KSh 850,000",Foreign Used,Automatic,60896km
+
+Suzuki Swift 2014 Gray,"KSh 880,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2015 Red,"KSh 800,000",Foreign Used,Automatic,53190km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 950,000",Foreign Used,Automatic,42800km
+
+Suzuki Swift 2015 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Mitsubishi Lancer 1998 Silver,"KSh 285,000",Kenyan Used,Automatic
+
+Nissan Sunny B15 Sedan 1.5 2004 Gold,"KSh 345,000",Kenyan Used,Automatic
+
+Mazda Demio 2011 Gray,"KSh 445,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Automatic,132116km
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,59000km
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,174277km
+
+Suzuki Swift 2014 White,"KSh 830,000",Foreign Used,Automatic,160000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,AMT,52000km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,42390km
+
+Suzuki Swift 2014 Off White,"KSh 800,000",Foreign Used,Automatic,62000km
+
+Suzuki Swift 2015 Blue,"KSh 830,000",Kenyan Used,Automatic,105000km
+
+Suzuki Swift 2014 Blue,"KSh 840,000",Foreign Used,Automatic,79808km
+
+Suzuki Swift 2014 Red,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,53808km
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,72135km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 900,000",Foreign Used,Automatic,47232km
+
+Suzuki Swift 2016 White,"KSh 950,000",Foreign Used,Automatic,100423km
+
+Suzuki Swift 2014 Ivory,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014,"KSh 880,000",Foreign Used,Automatic,54212km
+
+Suzuki Swift 2015 White,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 1,090,000",Foreign Used,Automatic,50710km
+
+Suzuki Swift 2014 Silver,"KSh 940,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,72858km
+
+Suzuki Swift 2014 Blue,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2013 White,"KSh 880,000",Foreign Used,Automatic,78556km
+
+Suzuki Swift 2014,"KSh 1,200,000",Foreign Used,Automatic,75000km
+
+Suzuki Swift 2014 Black,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014,"KSh 850,000",Foreign Used,Automatic,68056km
+
+Suzuki Swift 2015 Blue,"KSh 1,120,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,97000km
+
+Suzuki Swift 2013 Silver,"KSh 682,500",Kenyan Used,Automatic,150000km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,63000km
+
+Suzuki Swift 2015 Silver,"KSh 800,000",Foreign Used,Automatic,54243km
+
+Suzuki Swift 2014 White,"KSh 1,050,000",Kenyan Used,Automatic,58063km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,38434km
+
+Suzuki Swift 2014 Pearl,"KSh 1,060,000",Foreign Used,Manual,97000km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,45252km
+
+Suzuki Swift 2014 Gray,"KSh 850,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 Silver,"KSh 980,000",Foreign Used,Automatic,48523km
+
+Suzuki Swift 2014 Blue,"KSh 960,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,58652km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,146000km
+
+Suzuki Swift 2014,"KSh 880,000",Foreign Used,Automatic,56882km
+
+Suzuki Swift 2013 Silver,"KSh 720,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,71883km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic,48000km
+
+Suzuki Swift 2014 Black,"KSh 1,040,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Red,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,98652km
+
+Suzuki Swift 2014 Blue,"KSh 920,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2014 Red,"KSh 780,000",Foreign Used,Automatic,74525km
+
+Suzuki Swift 2015 Blue,"KSh 900,000",Foreign Used,Automatic,65489km
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,71560km
+
+Suzuki Swift 2014 Blue,"KSh 830,000",Foreign Used,Automatic,96863km
+
+Suzuki Swift 2015 Off White,"KSh 880,000",Foreign Used,Automatic,76500km
+
+Suzuki Swift 2014 Blue,"KSh 780,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 980,000",Foreign Used,Automatic,102000km
+
+Suzuki Swift 2014 Black,"KSh 870,000",Foreign Used,Automatic,79000km
+
+Suzuki Swift 2015 Green,"KSh 950,000",Foreign Used,Automatic,90875km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,74863km
+
+Suzuki Swift 2014 Red,"KSh 795,000",Kenyan Used,Automatic,89634km
+
+Suzuki Swift 2015 Gray,"KSh 900,000",Foreign Used,Automatic,67452km
+
+Suzuki Swift 2014 Matt Black,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 950,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2014 Pearl,"KSh 780,000",Foreign Used,Automatic,68956km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual,123000km
+
+Suzuki Swift 2013 White,"KSh 750,000",Foreign Used,Automatic,75852km
+
+Suzuki Swift 2015 Blue,"KSh 900,000",Foreign Used,Automatic,86050km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,72000km
+
+Suzuki Swift 2015 White,"KSh 850,000",Foreign Used,Automatic,60472km
+
+Suzuki Swift 2014 Silver,"KSh 849,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2015 Black,"KSh 900,000",Foreign Used,Automatic,93000km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,56280km
+
+Suzuki Swift 2014 Red,"KSh 1,120,000",Foreign Used,Automatic,50915km
+
+Suzuki Swift 2014 Gray,"KSh 1,150,000",Foreign Used,Automatic,78512km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,70986km
+
+Suzuki Swift 2014 Gray,"KSh 730,000",Foreign Used,Automatic,58160km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,61000km
+
+Suzuki Swift 2015 Silver,"KSh 820,000",Foreign Used,Automatic,89910km
+
+Suzuki Swift 2014 Green,"KSh 830,000",Foreign Used,Automatic,73652km
+
+Suzuki Swift 2015 Silver,"KSh 890,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Off White,"KSh 850,000",Foreign Used,Automatic,65863km
+
+Suzuki Swift 2014 Gray,"KSh 780,000",Foreign Used,Automatic,85636km
+
+Suzuki Swift 2015 Green,"KSh 880,000",Foreign Used,Automatic,71243km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Manual,65000km
+
+Suzuki Swift 2015 Red,"KSh 850,000",Foreign Used,Automatic,54985km
+
+Suzuki Swift 2014 Off White,"KSh 830,000",Foreign Used,Automatic,100245km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic,76000km
+
+Suzuki Swift 2014 Blue,"KSh 790,000",Foreign Used,Automatic,104000km
+
+Suzuki Swift 2016 Black,"KSh 1,020,000",Foreign Used,Automatic,83000km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Automatic,80452km
+
+Suzuki Swift 2015 Gray,"KSh 8,500,000",Foreign Used,Automatic,63125km
+
+Suzuki Swift 2014 Blue,"KSh 920,000",Foreign Used,Automatic,107000km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,90000km
+
+Suzuki Swift 2015 Blue,"KSh 1,120,000",Foreign Used,Automatic,91000km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,85000km
+
+Suzuki Swift 2014 White,"KSh 920,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2015 Matt Black,"KSh 1,020,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,59000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,87000km
+
+Suzuki Swift 2015 Red,"KSh 1,120,000",Foreign Used,Automatic,93000km
+
+Suzuki Swift 2014,"KSh 780,000",Foreign Used,Automatic,78452km
+
+Suzuki Swift 2014 Blue,"KSh 780,000",Foreign Used,Automatic,46325km
+
+Suzuki Swift 2014 White,"KSh 940,000",Foreign Used,Automatic,38000km
+
+Suzuki Swift 2015 Pearl,"KSh 920,000",Foreign Used,Automatic,42133km
+
+Suzuki Swift 2012 Silver,"KSh 699,000",Kenyan Used,Automatic,132000km
+
+Suzuki Swift 2014 Silver,"KSh 1,000,000",Foreign Used,Automatic,84213km
+
+Suzuki Swift 2015 Gray,"KSh 1,200,000",Foreign Used,Automatic,77000km
+
+Suzuki Swift 2015 Black,"KSh 880,000",Foreign Used,Automatic,86400km
+
+Suzuki Swift 2015 Black,"KSh 900,000",Foreign Used,Automatic,68953km
+
+Suzuki Swift 2014 Green,"KSh 930,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2014 Silver,"KSh 845,000",Foreign Used,Automatic,80000km
+
+Suzuki Swift 2014 Silver,"KSh 800,000",Foreign Used,Automatic,130000km
+
+Suzuki Swift 2015 White,"KSh 900,000",Foreign Used,Automatic,86390km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,51023km
+
+Suzuki Swift 2015 Matt Black,"KSh 830,000",Foreign Used,Automatic,70852km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,108000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,45236km
+
+Suzuki Swift 2014 Silver,"KSh 750,000",Foreign Used,Automatic,75425km
+
+Suzuki Swift 2014 Blue,"KSh 880,000",Foreign Used,Automatic,49000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2014 Black,"KSh 880,000",Foreign Used,Automatic,82000km
+
+Suzuki Swift 2014 Gray,"KSh 910,000",Foreign Used,Automatic,102000km
+
+Suzuki Swift 2014 Yellow,"KSh 1,100,000",Foreign Used,Automatic,50893km
+
+Suzuki Swift 2013 Black,"KSh 850,000",Foreign Used,Automatic,52639km
+
+Suzuki Swift 2014 White,"KSh 1,050,000",Foreign Used,Automatic,147000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,130,000",Foreign Used,Manual,112865km
+
+Suzuki Swift 2014 Yellow,"KSh 1,150,000",Foreign Used,Automatic,63300km
+
+Suzuki Swift 2015 Green,"KSh 820,000",Foreign Used,Automatic,36910km
+
+Suzuki Swift 2014 Blue,"KSh 840,000",Foreign Used,Automatic,64127km
+
+Suzuki Swift 2016 Gray,"KSh 900,000",Foreign Used,Automatic,55431km
+
+Suzuki Swift 2014 Red,"KSh 850,000",Foreign Used,Manual,70000km
+
+Suzuki Swift 2013 Blue,"KSh 700,000",Foreign Used,Automatic,69842km
+
+Suzuki Swift 2014 Silver,"KSh 850,000",Foreign Used,Automatic,76000km
+
+Suzuki Swift 1.4 2012 White,"KSh 620,000",Kenyan Used,Automatic,90144km
+
+Suzuki Swift 2014,"KSh 830,000",Foreign Used,Automatic,72100km
+
+Suzuki Swift 2014 White,"KSh 750,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 830,000",Foreign Used,Automatic,86002km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,98000km
+
+Suzuki Swift 2014 White,"KSh 750,000",Foreign Used,Automatic,74525km
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic,56386km
+
+Suzuki Swift 2009 Gray,"KSh 560,000",Kenyan Used,Automatic,89000km
+
+Suzuki Swift 2014 Blue,"KSh 980,000",Foreign Used,Automatic,65000km
+
+Suzuki Swift 2013 White,"KSh 880,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 970,000",Foreign Used,Automatic,112029km
+
+Suzuki Swift 2015,"KSh 900,000",Foreign Used,Automatic,40000km
+
+Suzuki Swift 2014 Blue,"KSh 800,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,58963km
+
+Suzuki Swift 2015 Matt Black,"KSh 950,000",Foreign Used,Automatic,51325km
+
+Suzuki Swift 2014 Red,"KSh 830,000",Foreign Used,Automatic,70000km
+
+Suzuki Swift 2014 Yellow,"KSh 1,100,000",Foreign Used,Manual,58636km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,76500km
+
+Suzuki Swift 2014 Blue,"KSh 1,200,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2015 Gray,"KSh 950,000",Foreign Used,Automatic,63180km
+
+Suzuki Swift 1.4 2012 Yellow,"KSh 780,000",Kenyan Used,Automatic,95236km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,72km
+
+Suzuki Swift 2013 Red,"KSh 880,000",Foreign Used,Automatic,71450km
+
+Suzuki Swift 2013 Black,"KSh 640,000",Kenyan Used,Automatic,790000km
+
+Suzuki Swift 2015 Black,"KSh 800,000",Foreign Used,Automatic,52131km
+
+Suzuki Swift 2014 Red,"KSh 860,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2014,"KSh 850,000",Foreign Used,Automatic,68460km
+
+Suzuki Swift 1.4 2012 Silver,"KSh 620,000",Kenyan Used,Automatic,120000km
+
+Suzuki Swift 2014 Black,"KSh 1,000,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Yellow,"KSh 1,100,000",Foreign Used,Manual,58100km
+
+Suzuki Swift 2014 White,"KSh 1,000,000",Foreign Used,Automatic,54000km
+
+Suzuki Swift 2015,"KSh 1,100,000",Foreign Used,Automatic,112000km
+
+Suzuki Swift 2015 Black,"KSh 840,000",Foreign Used,Automatic,39610km
+
+Suzuki Swift 2016 Black,"KSh 800,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Gray,"KSh 850,000",Foreign Used,Automatic,89300km
+
+Suzuki Swift 2012 White,"KSh 680,000",Foreign Used,Automatic,74365km
+
+Suzuki Swift 2013 White,"KSh 880,000",Foreign Used,Automatic,70568km
+
+Suzuki Swift 1.4 2012 Blue,"KSh 590,000",Kenyan Used,Automatic,106000km
+
+Suzuki Swift 2013 White,"KSh 700,000",Foreign Used,Automatic,91881km
+
+Suzuki Swift 2014 White,"KSh 1,100,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 900,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 850,000",Foreign Used,Automatic,85600km
+
+Suzuki Swift 2014 Pearl,"KSh 1,080,000",Foreign Used,Automatic,87523km
+
+Suzuki Swift 2015 White,"KSh 800,000",Foreign Used,Automatic,86300km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,86514km
+
+Suzuki Swift 1.4 2012 White,"KSh 599,000",Kenyan Used,Automatic,181684km
+
+Suzuki Swift 2015 Yellow,"KSh 1,100,000",Foreign Used,Automatic
+
+Suzuki Swift 2010 Red,"KSh 545,000",Kenyan Used,Automatic,138905km
+
+Suzuki Swift 2014 Pearl,"KSh 900,000",Foreign Used,Automatic,56332km
+
+New Suzuki Swift 2013 Blue,"KSh 660,000",Brand New,Automatic,87412km
+
+Suzuki Swift 2015 White,"KSh 1,200,000",Foreign Used,Manual
+
+Suzuki Swift 2012 1.4 White,"KSh 695,000",Foreign Used,Automatic,62855km
+
+Suzuki Swift 2014 White,"KSh 940,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gray,"KSh 800,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2015 Silver,"KSh 850,000",Foreign Used,Automatic,63125km
+
+Suzuki Swift 2014 Matt Black,"KSh 880,000",Foreign Used,Automatic,62503km
+
+Suzuki Swift 2014 Silver,"KSh 1,000,000",Foreign Used,Automatic,91076km
+
+Suzuki Swift 2014 Black,"KSh 850,000",Foreign Used,Automatic,53000km
+
+Suzuki Swift 2011 1.4 Gray,"KSh 620,000",Kenyan Used,Automatic,121568km
+
+Suzuki Swift 2015 Red,"KSh 930,000",Foreign Used,Automatic,92352km
+
+Suzuki Swift 2012 Silver,"KSh 600,000",Kenyan Used,Automatic,89412km
+
+Suzuki Swift 2014 Green,"KSh 1,050,000",Foreign Used,Automatic,72000km
+
+Suzuki Swift 2014 Silver,"KSh 750,000",Foreign Used,Automatic,76540km
+
+Suzuki Swift 2014 White,"KSh 1,300,000",Foreign Used,Automatic,58000km
+
+Suzuki Swift 2011 Blue,"KSh 510,000",Kenyan Used,Automatic,69412km
+
+Suzuki Swift 2015 Black,"KSh 1,085,000",Foreign Used,Automatic,79852km
+
+Suzuki Swift 2014 Red,"KSh 715,000",Foreign Used,Automatic,56380km
+
+Suzuki Swift 2014 Pearl,"KSh 1,050,000",Foreign Used,Automatic,36000km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic,61000km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,121000km
+
+Suzuki Swift 2014 Blue,"KSh 860,000",Foreign Used,Automatic,62000km
+
+Suzuki Swift 2009 White,"KSh 530,000",Kenyan Used,Manual,185161km
+
+Suzuki Swift 2015 Blue,"KSh 850,000",Foreign Used,Automatic,89954km
+
+Suzuki Swift 2014 Gray,"KSh 950,000",Foreign Used,Automatic,119000km
+
+Suzuki Swift 2014 Red,"KSh 900,000",Foreign Used,Automatic,78000km
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,36000km
+
+Suzuki Swift 2015 Black,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Red,"KSh 1,049,900",Foreign Used,Automatic,46238km
+
+Suzuki Swift 2015 Gray,"KSh 900,000",Foreign Used,Automatic,13000km
+
+Suzuki Swift 2014 Red,"KSh 970,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 White,"KSh 900,000",Foreign Used,Automatic,60000km
+
+Suzuki Swift 2014 Blue,"KSh 900,000",Foreign Used,Automatic,88000km
+
+Suzuki Swift 1.4 2012 Black,"KSh 670,000",Kenyan Used,CVT,185000km
+
+Suzuki Swift 2014 Black,"KSh 855,000",Foreign Used,Automatic,65085km
+
+Suzuki Swift 2015 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 1,050,000",Foreign Used,Automatic,67508km
+
+Suzuki Swift 2014 Silver,"KSh 855,000",Foreign Used,Automatic,41466km
+
+Suzuki Swift 2015 Pearl,"KSh 1,200,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 970,000",Foreign Used,Automatic,54000km
+
+Suzuki Swift 2014 White,"KSh 899,000",Foreign Used,Automatic,53632km
+
+Suzuki Swift 2015 Pearl,"KSh 730,000",Foreign Used,Automatic,63201km
+
+Suzuki Swift 1.4 2011 White,"KSh 620,000",Kenyan Used,Automatic
+
+Suzuki Alto 2015 Red,"KSh 630,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Green,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 1.4 2012 Blue,"KSh 560,000",Kenyan Used,Manual,163000km
+
+Suzuki Swift 2010 1.4 White,"KSh 550,000",Kenyan Used,Manual,97387km
+
+Suzuki Swift 2014 Teal,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Ivory,"KSh 860,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Gold,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Blue,"KSh 945,000",Foreign Used,Automatic
+
+Suzuki Swift 2006 Blue,"KSh 300,000",Kenyan Used,Manual,165000km
+
+Suzuki Swift 2014 Blue,"KSh 955,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 890,000",Foreign Used,AMT,63723km
+
+Suzuki Swift 2015 Blue,"KSh 1,050,000",Foreign Used,Automatic,65073km
+
+Suzuki Swift 2014 White,"KSh 950,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Black,"KSh 1,050,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 1,080,000",Foreign Used,Automatic
+
+Suzuki Swift 2013 Silver,"KSh 350,000",Kenyan Used,Automatic,110000km
+
+Suzuki Swift 2014 White,"KSh 1,080,000",Foreign Used,Manual
+
+Suzuki Swift 2014 Off White,"KSh 1,099,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 Silver,"KSh 870,000",Foreign Used,Automatic
+
+Suzuki Swift 2016 White,"KSh 840,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Blue,"KSh 820,000",Foreign Used,Automatic,67723km
+
+Suzuki Swift 2014 White,"KSh 995,000",Foreign Used,Automatic,139000km
+
+Suzuki Swift 2015 White,"KSh 1,050,000",Foreign Used,Automatic,980000km
+
+Suzuki Swift 2014 Blue,"KSh 850,000",Foreign Used,Automatic,69867km
+
+Suzuki Swift 2014 Black,"KSh 780,000",Foreign Used,Automatic,68130km
+
+Suzuki Swift 2014 Yellow,"KSh 900,000",Foreign Used,Automatic,72543km
+
+Suzuki Swift 2014 Green,"KSh 900,000",Foreign Used,Automatic,75389km
+
+Suzuki Swift 2015 Silver,"KSh 830,000",Foreign Used,Automatic,64850km
+
+Suzuki Swift 2014 Black,"KSh 920,000",Foreign Used,Automatic,111000km
+
+Suzuki Swift 2014 Silver,"KSh 820,000",Foreign Used,Automatic,72384km
+
+Suzuki Swift 2014 Blue,"KSh 950,000",Foreign Used,Automatic,80000km
+
+Suzuki Swift 2006 Blue,"KSh 250,000",Kenyan Used,Automatic
+
+Suzuki Swift 2015 White,"KSh 999,900",Foreign Used,Automatic,86234km
+
+Suzuki Swift 2015 White,"KSh 950,000",Foreign Used,Automatic,37521km
+
+Suzuki Swift 1.3 2008 Red,"KSh 499,000",Kenyan Used,Automatic,131000km
+
+Suzuki Swift 2015 Black,"KSh 875,000",Foreign Used,Automatic,35000km
+
+Suzuki Swift 2014 Pearl,"KSh 940,000",Foreign Used,CVT,147000km
+
+Suzuki Swift 2015 Blue,"KSh 1,020,000",Foreign Used,Automatic,162000km
+
+Suzuki Swift 2015 Black,"KSh 800,000",Foreign Used,Automatic,66482km
+
+Suzuki Swift 2014 White,"KSh 980,000",Foreign Used,Automatic,68000km
+
+Suzuki Swift 2014 White,"KSh 730,000",Foreign Used,Automatic,92000km
+
+Suzuki Swift 1.4 2011 Black,"KSh 590,000",Kenyan Used,Automatic,181000km
+
+Suzuki Swift 2015 Green,"KSh 1,049,900",Foreign Used,Automatic,56823km
+
+Suzuki Swift 2014 Blue,"KSh 990,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Black,"KSh 800,000",Foreign Used,Automatic,64057km
+
+Suzuki Swift 1.4 2012 Silver,"KSh 630,000",Kenyan Used,Automatic,162000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,000,000",Foreign Used,Automatic,105011km
+
+Suzuki Samurai 1991 Green,"KSh 750,000",Kenyan Used,Manual,72982km
+
+Suzuki Swift 2014 Silver,"KSh 950,000",Foreign Used,Automatic
+
+Suzuki Swift 2010 1.4 Silver,"KSh 480,000",Kenyan Used,Automatic,147000km
+
+Suzuki Swift 2015 White,"KSh 1,030,000",Foreign Used,Automatic,92710km
+
+Suzuki Swift 2014 Black,"KSh 740,000",Kenyan Used,Automatic,144000km
+
+Suzuki Swift 1.4 2012 White,"KSh 650,000",Kenyan Used,Automatic
+
+Suzuki Swift 2011 1.4 Red,"KSh 545,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 900,000",Foreign Used,Automatic
+
+Suzuki Swift 2015 Silver,"KSh 920,000",Foreign Used,Automatic,94069km
+
+Suzuki Swift 2010 1.4 White,"KSh 580,000",Kenyan Used,Automatic
+
+Suzuki Swift 2014 Silver,"KSh 799,999",Foreign Used,Automatic,97563km
+
+Suzuki Swift 2015 Green,"KSh 1,120,000",Foreign Used,Automatic,52000km
+
+Suzuki Swift 2014 Silver,"KSh 880,000",Foreign Used,Automatic,42000km
+
+Suzuki Swift 2014 Red,"KSh 920,000",Foreign Used,Automatic,95000km
+
+Suzuki Swift 2015 Yellow,"KSh 1,250,000",Foreign Used,Manual,78000km
+
+Suzuki Swift 2015 Burgandy,"KSh 990,000",Foreign Used,Automatic,56808km
+
+Suzuki Swift 2009 White,"KSh 630,000",Kenyan Used,Manual,121385km
+
+Suzuki Swift 2015 Silver,"KSh 999,000",Foreign Used,Automatic
+
+Suzuki Swift 2014 Yellow,"KSh 1,000,000",Foreign Used,Manual,18510km
+
+Suzuki Alto 2014 White,"KSh 650,000",Foreign Used,Automatic
+
+Suzuki Swift 2006 Silver,"KSh 295,000",Kenyan Used,Automatic,1687859km
+
+Suzuki Swift 2013 Green,"KSh 790,000",Foreign Used,Automatic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
